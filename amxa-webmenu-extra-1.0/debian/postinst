@@ -21,16 +21,26 @@ set -e
 case "$1" in
     configure)
       #these should go to opinsysextra!!
+      if test -e /etc/webmenu/config.yaml; then
+        rm /etc/webmenu/config.yaml
+      fi
       cp /etc/webmenu/amxa-config.json /etc/webmenu/config.json
-      if test -e /etc/webmenu/menu.json; then
-        rm /etc/webmenu/menu.json
+
+      if test -e /etc/webmenu/menu.yaml; then
+        rm /etc/webmenu/menu.yaml
       fi
       cp /etc/webmenu/amxa-menu.json /etc/webmenu/menu.json
+
+      #persoanllyadministered devices
       if ! test -d /etc/webmenu/personally-administered-device/; then
         mkdir -p /etc/webmenu/personally-administered-device/
       fi
-      if test -e /etc/webmenu/personally-administered-device/menu.json; then
-        rm /etc/webmenu/personally-administered-device/menu.json
+      if  test -e /etc/webmenu/personally-administered-device/config.yaml; then
+        rm /etc/webmenu/personally-administered-device/config.yaml
+      fi
+      cp /etc/webmenu/amxa-config.json /etc/webmenu/personally-administered-device/config.json
+      if test -e /etc/webmenu/personally-administered-device/menu.yaml; then
+        rm /etc/webmenu/personally-administered-device/menu.yaml
       fi
       cp /etc/webmenu/amxa-menu.json /etc/webmenu/personally-administered-device/menu.json
     ;;
