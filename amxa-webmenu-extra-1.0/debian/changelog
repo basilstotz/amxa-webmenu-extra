@@ -1,3 +1,9 @@
+amxa-webmenu-extra (1.0-1ubuntu6) precise; urgency=low
+
+  * mv orig menu.* config.* 
+
+ -- root <root@bootserver.amxa.opinys.fi>  Thu, 19 May 2016 16:21:51 +0200
+
 amxa-webmenu-extra (1.0-1ubuntu5) precise; urgency=low
 
   * rm orig menu.yaml config.yaml
