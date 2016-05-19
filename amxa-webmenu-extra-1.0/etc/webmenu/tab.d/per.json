@@ -1,0 +1,472 @@
+{
+  "type": "menu",
+  "name": {
+    "en": "",
+    "fi": "",
+    "de": "",
+    "fr": "Sujéts"
+  },
+  "condition": "env.LANGUAGE==\"fr\"",
+  "items": [
+    {
+      "type": "menu",
+      "name": {
+        "en": "",
+        "fi": "",
+        "de": "",
+        "fr": "Français"
+      },
+      "osIcon": "/usr/share/icons/Faenza/apps/64/gnome-dictionary.png",
+      "items": [
+        {
+          "type": "desktop",
+          "source": "gcompris"
+        },
+        {
+          "type": "desktop",
+          "source": "pahvi"
+        },
+        {
+          "type": "desktop",
+          "source": "ktouch"
+        },
+        {
+          "type": "desktop",
+          "source": "flickr"
+        },
+        {
+          "type": "desktop",
+          "source": "libreoffice-writer"
+        },
+        {
+          "type": "desktop",
+          "source": "kwordquiz"
+        },
+        {
+          "type": "desktop",
+          "source": "khangman"
+        },
+        {
+          "type": "desktop",
+          "source": "kanagram"
+        },
+        {
+          "type": "desktop",
+          "source": "qwantjunior"
+        },
+        {
+          "type": "desktop",
+          "source": "youtube"
+        }
+      ]
+    },
+    {
+      "type": "menu",
+      "name": {
+        "en": "",
+        "fi": "",
+        "de": "",
+        "fr": "Mathématiques"
+      },
+      "osIcon": "/usr/share/icons/Faenza/categories/64/applications-interfacedesign.png",
+      "items": [
+        {
+          "type": "desktop",
+          "source": "tuxmath",
+          "inactiveByDeviceType": "thinclient"
+        },
+        {
+          "type": "desktop",
+          "source": "gompris"
+        },
+        {
+          "type": "desktop",
+          "source": "gcompris"
+        },
+        {
+          "type": "desktop",
+          "source": "kbruch"
+        },
+        {
+          "type": "desktop",
+          "source": "kmplot"
+        },
+        {
+          "type": "desktop",
+          "source": "geogebra"
+        },
+        {
+          "type": "desktop",
+          "source": "drgeo"
+        },
+        {
+          "type": "desktop",
+          "source": "libreoffice-calc"
+        },
+        {
+          "type": "desktop",
+          "source": "libreoffice-math"
+        }
+      ]
+    },
+    {
+      "type": "menu",
+      "name": {
+        "en": "",
+        "fi": "",
+        "de": "",
+        "fr": "Allemand"
+      },
+      "osIcon": "/usr/share/icons/oxygen/64x64/categories/applications-education-language.png",
+      "items": [
+        {
+          "type": "desktop",
+          "source": "duolingo"
+        },
+        {
+          "type": "desktop",
+          "source": "google-translate"
+        },
+        {
+          "type": "desktop",
+          "source": "youtube"
+        }
+      ]
+    },
+    {
+      "type": "menu",
+      "name": {
+        "en": "",
+        "fi": "",
+        "de": "",
+        "fr": "Englais"
+      },
+      "osIcon": "/usr/share/icons/Humanity/categories/48/applications-biology.svg",
+      "items": [
+        {
+          "type": "desktop",
+          "source": "duolingo"
+        },
+        {
+          "type": "desktop",
+          "source": "libreoffice-writer"
+        },
+        {
+          "type": "desktop",
+          "source": "google-translate"
+        }
+
+      ]
+    },
+    {
+      "type": "menu",
+      "name": {
+        "en": "",
+        "fi": "",
+        "de": "",
+          "fr": "Italien"
+      },
+      "osIcon": "/usr/share/icons/Faenza/emblems/64/emblem-sales.png",
+      "items": [
+      ]
+    },
+    {
+      "type": "menu",
+      "name": {
+        "en": "",
+        "fi": "",
+        "de": "",
+        "fr": "Sciences de la nature"
+      },
+      "osIcon": "/usr/share/icons/Faenza/apps/64/tracker.png",
+      "items": [
+        {
+          "type": "desktop",
+          "source": "bodenreise"
+        },
+        {
+          "type": "desktop",
+          "source": "stellarium"
+        },
+        {
+          "type": "desktop",
+          "source": "kalzium"
+        },
+        {
+          "type": "desktop",
+          "source": "googleearth"
+        },
+        {
+          "type": "desktop",
+          "source": "libreoffice-writer"
+        },
+        {
+          "type": "desktop",
+          "source": "youtube"
+        }
+      ]
+    },
+    {
+      "type": "menu",
+      "name": {
+        "en": "",
+        "fi": "",
+        "de": "",
+        "fr": "Media et programmation"
+      },
+      "osIcon": "/usr/share/icons/gnome/48x48/devices/computer.png",
+      "items": [
+        {
+          "type": "desktop",
+          "source": "netla"
+        },
+        {
+          "type": "desktop",
+          "source": "netcity"
+        },
+        {
+          "type": "desktop",
+          "source": "code.org"
+        },
+        {
+          "type": "desktop",
+          "source": "scratch"
+        },
+        {
+          "type": "desktop",
+          "source": "blockly"
+        },
+        {
+          "type": "desktop",
+          "source": "snap"
+        },
+        {
+          "type": "desktop",
+          "source": "asebastudio"
+        },
+        {
+          "type": "desktop",
+          "source": "asebastudiothymio"
+        },
+        {
+          "type": "desktop",
+          "source": "thymiovpl"
+        },
+        {
+          "type": "desktop",
+          "source": "arduino",
+          "inactiveByDeviceType": "thinclient"
+        }
+      ]
+    },
+    {
+      "type": "menu",
+      "name": {
+        "en": "",
+        "fi": "",
+        "de": "Wirtschaft, Arbeit, Haushalt",
+        "fr": ""
+      },
+      "osIcon": "/usr/share/icons/Faenza/emblems/64/emblem-sales.png",
+      "items": [
+      ]
+    },
+    {
+      "type": "menu",
+      "name": {
+        "en": "",
+        "fi": "",
+        "de": "",
+        "fr": "Sciences humaines et sociales"
+      },
+      "osIcon": "/usr/share/tuxpaint/stamps/space/planets/3_earth.png",
+      "items": [
+        {
+          "type": "desktop",
+          "source": "kgeography"
+        },
+        {
+          "type": "desktop",
+          "source": "marble"
+        },
+        {
+          "type": "desktop",
+          "source": "map-geo-admin"
+        },
+        {
+          "type": "desktop",
+          "source": "stellarium"
+        },
+        {
+          "type": "desktop",
+          "source": "googleearth"
+        },
+        {
+          "type": "desktop",
+          "source": "schulkarte"
+        },
+        {
+          "type": "desktop",
+          "source": "openstreetmap"
+        },
+
+        {
+          "type": "desktop",
+          "source": "libreoffice-writer"
+        },
+        {
+          "type": "desktop",
+          "source": "youtube"
+        }
+      ]
+    },
+    {
+      "type": "menu",
+      "name": {
+        "en": "",
+        "fi": "",
+        "de": "Ethik, Religionen, Gemeinschaft",
+        "fr": ""
+      },
+      "osIcon": "/usr/share/icons/oxygen/128x128/status/meeting-participant.png",
+      "items": [
+      ]
+    },
+    {
+      "type": "menu",
+      "name": {
+        "en": "",
+        "fi": "",
+        "de": "",
+        "fr": "Musiques"
+      },
+      "osIcon": "/usr/share/icons/Faenza/apps/64/gmusicbrowser.png",
+      "items": [
+        {
+          "type": "desktop",
+          "source": "audacity"
+        },
+        {
+          "type": "desktop",
+          "source": "solfege"
+        },
+        {
+          "type": "desktop",
+          "source": "hydrogen"
+        },
+        {
+          "type": "desktop",
+          "source": "lmms"
+        },
+        {
+          "type": "desktop",
+          "source": "mscore"
+        },
+        {
+          "source": "spotify",
+          "type": "desktop"
+        },
+        {
+          "type": "desktop",
+          "source": "libreoffice-writer"
+        },
+        {
+          "type": "desktop",
+          "source": "youtube"
+        }
+      ]
+    },
+    {
+      "type": "menu",
+      "name": {
+        "en": "",
+        "fi": "",
+        "de": "",
+        "fr": "Activités créatrice"
+      },
+      "osIcon": "/usr/share/icons/Neu/128x128/categories/kcontrol.png",
+      "items": [
+        {
+          "type": "desktop",
+          "source": "pinta"
+        },
+        {
+          "type": "desktop",
+          "source": "gimp"
+        },
+        {
+          "type": "desktop",
+          "source": "inkscape"
+        },
+        {
+          "type": "desktop",
+          "source":"sumopaint"
+        },
+        {
+          "type": "desktop",
+          "source": "scribus"
+        },
+        {
+          "type": "desktop",
+          "source": "simplescreenrecorder"
+        },
+        {
+          "type": "desktop",
+          "source": "gtk-recordmydesktop"
+        },
+        {
+          "type": "desktop",
+          "source": "stopmotion"
+        },
+        {
+          "type": "desktop",
+          "source": "audacity"
+        },
+        {
+          "type": "desktop",
+          "source": "photofilmstrip"
+        },
+        {
+          "type": "desktop",
+          "source": "pitivi"
+        },
+        {
+          "type": "desktop",
+          "source": "cheese"
+        },
+        {
+          "type": "desktop",
+          "source": "openshot"
+        },
+        {
+          "type": "desktop",
+          "source": "stopmotion"
+        },
+        {
+          "type": "desktop",
+          "source": "flickr"
+        }
+      ]
+    },
+    {
+      "type": "menu",
+      "name": {
+        "en": "",
+        "fi": "",
+        "de": "",
+        "fr": "Corps et mouvement"
+      },
+      "osIcon": "/usr/share/icons/Humanity/categories/48/applications-sports.svg",
+      "items": [
+        {
+          "type": "desktop",
+          "source": "cool-driving"
+        },
+        {
+          "type": "desktop",
+          "source": "youtube"
+        }
+      ]
+    }
+  ]
+}

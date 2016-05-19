@@ -1,0 +1,89 @@
+asebastudio:
+  osIcon: /usr/share/icons/hicolor/48x48/apps/asebastudio.png
+  name:
+    en: Aseba Studio for Thymio
+    de: Aseba Studio für Thymio
+    fr: Aseba Studio pour Thymio
+asebastudiothymio:
+  osIcon: /usr/share/icons/hicolor/48x48/apps/asebastudiothymio.png
+  name:
+    en: Programm the Thymio Robot
+    de: Programmiere den Thymio Roboter
+    fr: Programme le robot Thymio
+blockly:
+  osIcon: /usr/share/pixmaps/blockly.png
+  name:
+    en: Blockly-Visual Programming
+    de: Blockly-Visueller Programmierung
+    fr: Blockly-programmation visuelle
+bodenreise:
+  osIcon: /usr/share/pixmaps/bodenreise.png
+code.org:
+  osIcon: /usr/share/pixmaps/code_org.png
+  name:
+    en: code.org-Visual Programming
+    de: code.org-Visueller Programmierung
+    fr: code.org-programmation visuelle
+cool-driving:
+  osIcon: /usr/share/pixmaps/cool-driving.png
+duolingo:
+  osIcon: /usr/share/pixmaps/duolingo.png
+  name:
+    en: Duolingo-Learn languages
+    de: Duolingo-Lerne Sprachen
+    fr: Duolingo-Apprends les langues
+flickr:
+  osIcon: /usr/share/icons/Faenza/apps/48/flickr.png
+  name:
+    en: flickr-Find Pictures
+    de: flickr-finde Bilder
+    fr: flickr-trouves des images
+google-translate:
+  osIcon: /usr/share/pixmaps/google-translate.png
+map-geo-admin:
+  osIcon: /usr/share/pixmaps/map-geo-admin.png
+netla:
+  osIcon: /usr/share/pixmaps/netla.png
+netcity:
+  osIcon: /usr/share/pixmaps/netcity.png
+openstreetmap:
+  osIcon: /usr/share/pixmaps/openstreetmap.png
+pahvi:
+  osIcon: /usr/share/pixmaps/pahvi.png
+  name:
+    en: Collaborative Whiteboard 
+    de: Zusammenarbeit auf dem Whiteboard
+    fr: Tableau blanc collaboratif
+snap:
+  osIcon: /usr/share/pixmaps/snap.png
+  name:
+    en: Snap-Visual Programming
+    de: Snap-Visuelle Programmierung
+    fr: Snap-programmation visuelle
+thymiovpl:
+  osIcon: /usr/share/icons/hicolor/48x48/apps/thymiovpl.png
+  name:
+    en: Visual Programming for  Thymio Robots
+    de: Visuelle Programmierung für  Thymio Roboter
+    fr: Programmation visuelle pour robots Thymio
+schulkarte:
+  osIcon: /usr/share/pixmaps/schulkarte.png
+  name:
+    en: A Map for Schools
+    de: Eine Karte für den Unterricht
+    fr: Une Carte pour l'école
+sumopaint:
+  osIcon:  /usr/share/pixmaps/sumopaint.png
+  name:
+    en: Sumopaint-online graphics editor
+    fi: Sumopaint-webkuvankäsittely
+    sv: Sumopaint-bildbehandling
+    de: Sumopaint-Online Bildbearbeitung
+    fr: Sumopaint-traitement d'images en ligne
+youtube:
+  osIcon: /usr/share/icons/Faenza/apps/96/youtube.png
+  command: chromium-browser --app=https://youtube.com
+  name:
+    en: Youtube
+    de: Youtube
+    fr: Youtube

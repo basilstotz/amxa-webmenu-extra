@@ -1,0 +1,30 @@
+javacontrolpanel:
+  osIcon: openjdk-6
+  command: /opt/java/jdk1.7.0_51/jre/bin/ControlPanel
+  name: 
+    en: Java Control Panel
+    fi: Java-asetukset
+    fr: Java-réglages
+    sv: Java-inställningar
+    de: Java Einstellungen
+kenavisionmicroscope:
+  name: Kena Vision Microscope
+  command: /opt/av4kav/lib/av4.sh
+  osIconPath: /usr/share/icons/Faenza/devices/96/camera-web.png
+kino:
+  name: 
+    en: Kino-non-linear DV editor
+    fi: Kino-videoeditori
+    fr: Kino-editeur vidéo
+    sv: Kino-videoredigerare
+    de: Kino Filme bearbeiten
+  command: kino
+  description: 
+    en: Edit videos
+    fi: Muokkaa videoita
+    fr: Editeur vidéo"
+    sv: Redigera videon
+    de: Video bearbeiten
+  osIcon: kino
+      
+

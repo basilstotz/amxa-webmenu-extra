@@ -1,0 +1,6 @@
+qwantjunior:
+  name:
+    fr: Qwantjunior - moteur de recherche
+    en: Qwantjunior 
+  command: chromium-browser --app=https://www.qwantjunior.com
+  osIcon: /usr/share/icons/Faenza/places/48/start-here-mandriva.png

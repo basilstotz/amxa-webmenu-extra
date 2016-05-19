@@ -1,0 +1,5 @@
+amxa-webmenu-extra (1.0-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Basil Stotz <stotz@amxa.ch>  Thu, 19 May 2016 11:03:51 +0200
