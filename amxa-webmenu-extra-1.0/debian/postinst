@@ -29,10 +29,10 @@ case "$1" in
       if ! test -d /etc/webmenu/personally-administrered-device/; then
         mkdir -p /etc/webmenu/personally-administrered-device/
       fi
-      if test -e /etc/webmenu/personally-administrered-device/menu.json; then
-        rm /etc/webmenu/personally-administrered-device/menu.json
+      if test -e /etc/webmenu/personally-administered-device/menu.json; then
+        rm /etc/webmenu/personally-administered-device/menu.json
       fi
-      cp /etc/webmenu/amxa-menu.json /etc/webmenu/personally-administrered-device/menu.json
+      cp /etc/webmenu/amxa-menu.json /etc/webmenu/personally-administered-device/menu.json
     ;;
 
     abort-upgrade|abort-remove|abort-deconfigure)
