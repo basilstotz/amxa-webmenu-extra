@@ -26,8 +26,8 @@ case "$1" in
         rm /etc/webmenu/menu.json
       fi
       cp /etc/webmenu/amxa-menu.json /etc/webmenu/menu.json
-      if ! test -d /etc/webmenu/personally-administrered-device/; then
-        mkdir -p /etc/webmenu/personally-administrered-device/
+      if ! test -d /etc/webmenu/personally-administered-device/; then
+        mkdir -p /etc/webmenu/personally-administered-device/
       fi
       if test -e /etc/webmenu/personally-administered-device/menu.json; then
         rm /etc/webmenu/personally-administered-device/menu.json
