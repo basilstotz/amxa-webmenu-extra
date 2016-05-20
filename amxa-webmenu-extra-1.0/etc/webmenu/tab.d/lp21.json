@@ -20,28 +20,23 @@
       "items": [
         {
           "type": "desktop",
-          "source": "antolin",
-          "osIcon": "/usr/share/pixmaps/antolin.png"
+          "source": "antolin"
         },
         {
           "type": "desktop",
-          "source": "blindekuh",
-          "osIcon": "/usr/share/pixmaps/blindekuh.png"
+          "source": "blindekuh"
         },
         {
           "type": "desktop",
-          "source": "duden",
-          "osIcon": "/usr/share/pixmaps/duden.png"
+          "source": "duden"
         },
         {
           "type": "desktop",
-          "source": "fragfinn",
-          "osIcon": "/usr/share/pixmaps/fragfinn.png"
+          "source": "fragfinn"
         },
         {
           "type": "desktop",
-          "source": "kindersuchmaschine",
-          "osIcon": "/usr/share/pixmaps/kindersuchmaschine.png"
+          "source": "kindersuchmaschine"
         },
         {
           "type": "desktop",
@@ -50,30 +45,25 @@
         {
           "type": "desktop",
           "source": "leseschlau",
-          "osIcon": "/usr/share/pixmaps/leseschlau.png",
           "condition": "env.PROP"
         },
         {
           "type": "desktop",
           "source": "luegeloselaese",
-          "osIcon": "/usr/share/pixmaps/lll.png",
           "condition": "env.PROP"
         },
         {
           "type": "desktop",
           "source": "lesewerkstatt",
-          "osIcon": "/usr/share/pixmaps/lesewerkstatt.png",
           "condition": "env.PROP"
         },
         {
           "type": "desktop",
-          "source": "lerntrix",
-          "osIcon": "/usr/share/pixmaps/lerntrix.png"
+          "source": "lerntrix"
         },
         {
           "type": "desktop",
-          "source": "pahvi",
-          "osIcon": "/usr/share/pixmaps/pahvi.png"
+          "source": "pahvi"
         },
         {
           "type": "desktop",
@@ -81,41 +71,27 @@
         },
         {
           "type": "desktop",
-          "source": "tipp10",
-          "osIcon": "/usr/share/pixmaps/tipp10.png"
+          "source": "tipp10"
         },
         {
           "type": "desktop",
-          "source": "openthesaurus",
-          "osIcon": "/usr/share/pixmaps/openthesaurus.png"
+          "source": "openthesaurus"
         },
         {
           "type": "desktop",
-          "source": "minibooks",
-          "osIcon": "/usr/share/pixmaps/minibooks.png"
+          "source": "minibooks"
         },
         {
           "type": "desktop",
-          "source": "mymonent",
-          "osIcon": "/usr/share/pixmaps/mymoment.png"
+          "source": "mymonent"
         },
         {
           "type": "desktop",
-          "source": "flickr",
-          "osIcon": "/usr/share/icons/Faenza/apps/48/flickr.png",
-          "name": "flickr"
+          "source": "flickr"
         },
         {
-          "type": "web",
-          "name": "Youtube",
-          "url": "http://youtube.com",
-          "description": {
-            "en": "YouTube",
-            "fi": "YouTube-videopalvelu",
-            "sv": "YouTube",
-            "de": "YouTube"
-          },
-          "osIconPath": "/usr/share/icons/Faenza/apps/96/youtube.png"
+          "type": "desktop",
+          "source": "youtube"
         }
       ]
     },
@@ -137,115 +113,92 @@
         {
           "type": "desktop",
           "source": "blitzrechnen",
-          "osIcon": "/usr/share/pixmaps/blitzrechnen.png",
           "condition": "env.PROP"
         },
         {
           "type": "desktop",
           "source": "rechentraining",
-          "osIcon": "/usr/share/pixmaps/rechentraining.png",
           "condition": "env.PROP"
         },
         {
           "type": "desktop",
           "source": "rechentraining6",
-          "osIcon": "/usr/share/pixmaps/rechentraining6.png",
           "condition": "env.PROP"
         },
         {
           "type": "desktop",
           "source": "logisch1",
-          "osIcon": "/usr/share/pixmaps/logisch1.png",
           "condition": "env.PROP"
         },
         {
           "type": "desktop",
           "source": "logisch2",
-          "osIcon": "/usr/share/pixmaps/logisch2.png",
           "condition": "env.PROP"
         },
         {
           "type": "desktop",
           "source": "logisch3",
-          "osIcon": "/usr/share/pixmaps/logisch3.png",
           "condition": "env.PROP"
         },
         {
           "type": "desktop",
           "source": "logisch4",
-          "osIcon": "/usr/share/pixmaps/logisch4.png",
           "condition": "env.PROP"
         },
         {
           "type": "desktop",
           "source": "logisch5",
-          "osIcon": "/usr/share/pixmaps/logisch5.png",
           "condition": "env.PROP"
         },
         {
           "type": "desktop",
           "source": "logisch6",
-          "osIcon": "/usr/share/pixmaps/logisch6.png",
           "condition": "env.PROP"
         },
 
-        {
-          "type": "desktop",
-          "source": "gompris"
-        },
-        {
-          "type": "desktop",
-          "source": "mathe-aktiv-multiplikation",
-          "osIcon": "/usr/share/pixmaps/mathe-aktiv-multiplikation.png"
-        },
-        {
-          "type": "desktop",
-          "source": "mathe-aktiv-division",
-          "osIcon": "/usr/share/pixmaps/mathe-aktiv-division.png"
-        },
-        {
-          "type": "desktop",
-          "source": "mathe-aktiv-insaetze",
-          "osIcon": "/usr/share/pixmaps/mathe-aktiv-insaetze.png"
-        },
-        {
-          "type": "desktop",
-          "source": "mathe1trainer",
-          "osIcon": "/usr/share/pixmaps/mathe1trainer.png"
-        },
-        {
-          "type": "desktop",
-          "source": "mathe2trainer",
-          "osIcon": "/usr/share/pixmaps/mathe2trainer.png"
-        },
-        {
-          "type": "desktop",
-          "source": "mathe3trainer",
-          "osIcon": "/usr/share/pixmaps/mathe3trainer.png"
-        },
-        {
-          "type": "desktop",
-          "source": "mathe4trainer",
-          "osIcon": "/usr/share/pixmaps/mathe4trainer.png"
-        },
-        {
-          "type": "desktop",
-          "source": "sikore",
-          "osIcon": "/usr/share/pixmaps/sikore.png"
-        },
-        {
-          "type": "desktop",
-          "source": "mathe-im-netz",
-          "osIcon": "/usr/share/pixmaps/mathe-im-netz.png"
-        },
         {
           "type": "desktop",
           "source": "gcompris"
         },
         {
           "type": "desktop",
-          "source": "sikore",
-          "osIcon": "/usr/share/pixmaps/sikore.png"
+          "source": "mathe-aktiv-multiplikation"
+        },
+        {
+          "type": "desktop",
+          "source": "mathe-aktiv-division"
+        },
+        {
+          "type": "desktop",
+          "source": "mathe-aktiv-insaetze"
+        },
+        {
+          "type": "desktop",
+          "source": "mathe1trainer"
+        },
+        {
+          "type": "desktop",
+          "source": "mathe2trainer"
+        },
+        {
+          "type": "desktop",
+          "source": "mathe3trainer"
+        },
+        {
+          "type": "desktop",
+          "source": "mathe4trainer"
+        },
+        {
+          "type": "desktop",
+          "source": "sikore"
+        },
+        {
+          "type": "desktop",
+          "source": "mathe-im-netz"
+        },
+        {
+          "type": "desktop",
+          "source": "gcompris"
         },
         {
           "type": "desktop",
@@ -279,72 +232,60 @@
         {
           "type": "desktop",
           "source": "millefeuilles3.1",
-          "osIcon": "/usr/share/pixmaps/mf31.png",
           "condition": "env.PROP"
         },
         {
           "type": "desktop",
           "source": "millefeuilles3.2",
-          "osIcon": "/usr/share/pixmaps/mf32.png",
           "condition": "env.PROP"
         },
         {
           "type": "desktop",
           "source": "millefeuilles3.3",
-          "osIcon": "/usr/share/pixmaps/mf33.png",
           "condition": "env.PROP"
         },
         {
           "type": "desktop",
           "source": "millefeuilles4.1",
-          "osIcon": "/usr/share/pixmaps/mf41.png",
           "condition": "env.PROP"
         },
         {
           "type": "desktop",
           "source": "millefeuilles4.2",
-          "osIcon": "/usr/share/pixmaps/mf42.png",
           "condition": "env.PROP"
         },
         {
           "type": "desktop",
           "source": "millefeuilles4.3",
-          "osIcon": "/usr/share/pixmaps/mf43.png",
           "condition": "env.PROP"
         },
         {
           "type": "desktop",
           "source": "millefeuilles5.1",
-          "osIcon": "/usr/share/pixmaps/mf51.png",
           "condition": "env.PROP"
         },
         {
           "type": "desktop",
           "source": "millefeuilles5.2",
-          "osIcon": "/usr/share/pixmaps/mf52.png",
           "condition": "env.PROP"
         },
         {
           "type": "desktop",
           "source": "millefeuilles6.1",
-          "osIcon": "/usr/share/pixmaps/mf61.png",
           "condition": "env.PROP"
         },
         {
           "type": "desktop",
           "source": "millefeuilles6.2",
-          "osIcon": "/usr/share/pixmaps/mf62.png",
           "condition": "env.PROP"
         },
         {
           "type": "desktop",
-          "source": "fichier",
-          "osIcon": "/usr/share/pixmaps/fichier.png"
+          "source": "fichier"
         },
         {
           "type": "desktop",
-          "source": "duolingo",
-          "osIcon": "/usr/share/pixmaps/duolingo.png"
+          "source": "duolingo"
         },
         {
           "type": "desktop",
@@ -352,8 +293,7 @@
         },
         {
           "type": "desktop",
-          "source": "google-translate",
-          "osIcon": "/usr/share/pixmaps/google-translate.png"
+          "source": "google-translate"
         }
       ]
     },
@@ -370,19 +310,16 @@
         {
           "type": "desktop",
           "source": "newworld1",
-          "osIcon": "/usr/share/pixmaps/newworld1.png",
           "condition": "env.PROP"
         },
         {
           "type": "desktop",
           "source": "newworld2",
-          "osIcon": "/usr/share/pixmaps/newworld2.png",
           "condition": "env.PROP"
         },
         {
           "type": "desktop",
-          "source": "duolingo",
-          "osIcon": "/usr/share/pixmaps/duolingo.png"
+          "source": "duolingo"
         },
         {
           "type": "desktop",
@@ -390,8 +327,7 @@
         },
         {
           "type": "desktop",
-          "source": "google-translate",
-          "osIcon": "/usr/share/pixmaps/google-translate.png"
+          "source": "google-translate"
         }
 
       ]
@@ -420,23 +356,19 @@
       "items": [
         {
           "type": "desktop",
-          "source": "bodenreise",
-          "osIcon": "/usr/share/pixmaps/bodenreise.png"
+          "source": "bodenreise"
         },
         {
           "type": "desktop",
-          "source": "kinderwald",
-          "osIcon": "/usr/share/pixmaps/kinderwald.png"
+          "source": "kinderwald"
         },
         {
           "type": "desktop",
-          "source": "fragfinn",
-          "osIcon": "/usr/share/pixmaps/fragfinn.png"
+          "source": "fragfinn"
         },
         {
           "type": "desktop",
-          "source": "kindersuchmaschine",
-          "osIcon": "/usr/share/pixmaps/kindersuchmaschine.png"
+          "source": "kindersuchmaschine"
         },
         {
           "type": "desktop",
@@ -451,16 +383,16 @@
           "source": "libreoffice-writer"
         },
         {
-          "type": "web",
-          "name": "Youtube",
-          "url": "http://youtube.com",
-          "description": {
-            "en": "YouTube",
-            "fi": "YouTube-videopalvelu",
-            "sv": "YouTube",
-            "de": "YouTube"
-          },
-          "osIconPath": "/usr/share/icons/Faenza/apps/96/youtube.png"
+          "type": "desktop",
+          "source": "cool-driving"
+        },
+        {
+          "type": "desktop",
+          "source": "unserkoerper"
+        },
+        {
+          "type": "desktop",
+          "source": "youtube"
         }
       ]
     },
@@ -476,23 +408,19 @@
       "items": [
         {
           "type": "desktop",
-          "source": "netla",
-          "osIcon": "/usr/share/pixmaps/netla.png"
+          "source": "netla"
         },
         {
           "type": "desktop",
-          "source": "netcity",
-          "osIcon": "/usr/share/pixmaps/netcity.png"
+          "source": "netcity"
         },
         {
           "type": "desktop",
-          "source": "internet-abc",
-          "osIcon": "/usr/share/pixmaps/internet-abc.png"
+          "source": "internet-abc"
         },
         {
           "type": "desktop",
-          "source": "code.org",
-          "osIcon": "/usr/share/pixmaps/code_org.png"
+          "source": "code.org"
         },
         {
           "type": "desktop",
@@ -500,28 +428,23 @@
         },
         {
           "type": "desktop",
-          "source": "blockly",
-          "osIcon": "/usr/share/pixmaps/blockly.png"
+          "source": "blockly"
         },
         {
           "type": "desktop",
-          "source": "snap",
-          "osIcon": "/usr/share/pixmaps/snap.png"
+          "source": "snap"
         },
         {
           "type": "desktop",
-          "source": "asebastudio",
-          "osIcon": "/usr/share/icons/hicolor/48x48/apps/asebastudio.png"
+          "source": "asebastudio"
         },
         {
           "type": "desktop",
-          "source": "asebastudiothymio",
-          "osIcon": "/usr/share/icons/hicolor/48x48/apps/asebastudiothymio.png"
+          "source": "asebastudiothymio"
         },
         {
           "type": "desktop",
-          "source": "thymiovpl",
-          "osIcon": "/usr/share/icons/hicolor/48x48/apps/thymiovpl.png"
+          "source": "thymiovpl"
         },
         {
           "type": "desktop",
@@ -562,8 +485,7 @@
         },
         {
           "type": "desktop",
-          "source": "map-geo-admin",
-          "osIcon": "/usr/share/pixmaps/map-geo-admin.png"
+          "source": "map-geo-admin"
         },
         {
           "type": "desktop",
@@ -575,33 +497,19 @@
         },
         {
           "type": "desktop",
-          "source": "schulkarte",
-          "osIcon": "/usr/share/pixmaps/schulkarte.png"
+          "source": "schulkarte"
         },
         {
           "type": "desktop",
-          "source": "map-geo-admin",
-          "osIcon": "/usr/share/pixmaps/map-geo-admin.png"
+          "source": "schatz-der-kulturen"
         },
         {
           "type": "desktop",
-          "source": "schatz-der-kulturen",
-          "osIcon": "/usr/share/pixmaps/schatz-der-kulturen.png"
+          "source": "zeitklicks"
         },
         {
           "type": "desktop",
-          "source": "zeitklicks",
-          "osIcon": "/usr/share/pixmaps/zeitklicks.png"
-        },
-        {
-          "type": "desktop",
-          "source": "schatz-der-kulturen",
-          "osIcon": "/usr/share/pixmaps/schatz-der-kulturen.png"
-        },
-        {
-          "type": "desktop",
-          "source": "openstreetmap",
-          "osIcon": "/usr/share/pixmaps/openstreetmap.png"
+          "source": "openstreetmap"
         },
 
         {
@@ -609,16 +517,8 @@
           "source": "libreoffice-writer"
         },
         {
-          "type": "web",
-          "name": "Youtube",
-          "url": "http://youtube.com",
-          "description": {
-            "en": "YouTube",
-            "fi": "YouTube-videopalvelu",
-            "sv": "YouTube",
-            "de": "YouTube"
-          },
-          "osIconPath": "/usr/share/icons/Faenza/apps/96/youtube.png"
+          "type": "desktop",
+          "source": "youtube"
         }
       ]
     },
@@ -646,18 +546,14 @@
       "items": [
         {
           "type": "desktop",
-          "source": "kinderweltmusik",
-          "osIcon": "/usr/share/pixmaps/kinderweltmusik.png"
+          "source": "kinderweltmusik"        },
+        {
+          "type": "desktop",
+          "source": "musikwissenschaften"
         },
         {
           "type": "desktop",
-          "source": "musikwissenschaften",
-          "osIcon": "/usr/share/pixmaps/musikwissenschaften.png"
-        },
-        {
-          "type": "desktop",
-          "source": "notenmax",
-          "osIcon": "/usr/share/pixmaps/notenmax.png"
+          "source": "notenmax"
         },
         {
           "type": "desktop",
@@ -688,16 +584,8 @@
           "source": "libreoffice-writer"
         },
         {
-          "type": "web",
-          "name": "Youtube",
-          "url": "http://youtube.com",
-          "description": {
-            "en": "YouTube",
-            "fi": "YouTube-videopalvelu",
-            "sv": "YouTube",
-            "de": "YouTube"
-          },
-          "osIconPath": "/usr/share/icons/Faenza/apps/96/youtube.png"
+          "type": "desktop",
+          "source": "youtube"
         }
       ]
     },
@@ -724,16 +612,8 @@
           "source": "inkscape"
         },
         {
-          "type": "web",
-          "name": "Sumopaint",
-          "url": "http://www.sumopaint.com",
-          "description": {
-            "en": "Sumopaint-online graphics editor",
-            "fi": "Sumopaint-webkuvankäsittely",
-            "sv": "Sumopaint-bildbehandling",
-            "de": "Sumopaint Online Bildbearbeitung"
-          },
-          "osIconPath": "/usr/share/icons/Faenza/apps/96/gimp.png"
+          "type": "desktop",
+          "source": "Sumopaint"
         },
         {
           "type": "desktop",
@@ -745,8 +625,7 @@
         },
         {
           "type": "desktop",
-          "source": "gtk-recordmydesktop",
-         "osIconPath": "/usr/share/icons/Faenza/apps/48/gtk-recordmydesktop.png"
+          "source": "gtk-recordmydesktop"
         },
         {
           "type": "desktop",
@@ -754,18 +633,15 @@
         },
         {
           "type": "desktop",
-          "source": "minipodium",
-          "osIcon": "/usr/share/pixmaps/minipodium.png"
+          "source": "minipodium"
         },
         {
           "type": "desktop",
-          "source": "mymonent",
-          "osIcon": "/usr/share/pixmaps/mymoment.png"
+          "source": "mymonent"
         },
         {
           "type": "desktop",
-          "source": "minibooks",
-          "osIcon": "/usr/share/pixmaps/minibooks.png"
+          "source": "minibooks"
         },
         {
           "type": "desktop",
@@ -793,9 +669,7 @@
         },
         {
           "type": "desktop",
-          "source": "flickr",
-          "osIcon": "/usr/share/icons/Faenza/apps/48/flickr.png",
-          "name": "flickr"
+          "source": "flickr"
         }
       ]
     },
@@ -809,28 +683,6 @@
       },
       "osIcon": "/usr/share/icons/Humanity/categories/48/applications-sports.svg",
       "items": [
-        {
-          "type": "desktop",
-          "source": "cool-driving",
-          "osIcon": "/usr/share/pixmaps/cool-driving.png"
-        },
-        {
-          "type": "desktop",
-          "source": "unserkoerper",
-          "osIcon": "/usr/share/pixmaps/unserkoerper.png"
-        },
-        {
-          "type": "web",
-          "name": "Youtube",
-          "url": "http://youtube.com",
-          "description": {
-            "en": "YouTube",
-            "fi": "YouTube-videopalvelu",
-            "sv": "YouTube",
-            "de": "YouTube"
-          },
-          "osIconPath": "/usr/share/icons/Faenza/apps/96/youtube.png"
-        }
       ]
     }
   ]

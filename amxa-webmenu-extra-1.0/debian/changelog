@@ -1,3 +1,9 @@
+amxa-webmenu-extra (1.0-1ubuntu9) precise; urgency=low
+
+  * cleanup lp21.json --> amxa-prop.yaml
+
+ -- root <root@bootserver.amxa.opinys.fi>  Fri, 20 May 2016 16:11:30 +0200
+
 amxa-webmenu-extra (1.0-1ubuntu8) precise; urgency=low
 
   * preinst: mv tab.d/*yaml --> *yaml.opinsys

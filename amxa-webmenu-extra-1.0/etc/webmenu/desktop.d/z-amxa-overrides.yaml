@@ -1,3 +1,5 @@
+antolin:
+  osIcon: /usr/share/pixmaps/antolin.png
 asebastudio:
   osIcon: /usr/share/icons/hicolor/48x48/apps/asebastudio.png
   name:
@@ -10,6 +12,8 @@ asebastudiothymio:
     en: Programm the Thymio Robot
     de: Programmiere den Thymio Roboter
     fr: Programme le robot Thymio
+blindekuh:
+    osIcon: /usr/share/pixmaps/blindekuh.png
 blockly:
   osIcon: /usr/share/pixmaps/blockly.png
   name:
@@ -26,46 +30,88 @@ code.org:
     fr: code.org-programmation visuelle
 cool-driving:
   osIcon: /usr/share/pixmaps/cool-driving.png
+duden:
+  osIcon: /usr/share/pixmaps/duden.png
 duolingo:
   osIcon: /usr/share/pixmaps/duolingo.png
   name:
     en: Duolingo-Learn languages
     de: Duolingo-Lerne Sprachen
     fr: Duolingo-Apprends les langues
+fichier:
+  osIcon: /usr/share/pixmaps/fichier.png
 flickr:
   osIcon: /usr/share/icons/Faenza/apps/48/flickr.png
   name:
     en: flickr-Find Pictures
     de: flickr-finde Bilder
     fr: flickr-trouves des images
+fragfinn:
+  osIcon: /usr/share/pixmaps/fragfinn.png
 google-translate:
   osIcon: /usr/share/pixmaps/google-translate.png
+internet-abc:
+  osIcon: /usr/share/pixmaps/internet-abc.png
+kindersuchmachine:
+  osIcon: /usr/share/pixmaps/kindersuchmaschine.png
+kinderwald:
+  osIcon: /usr/share/pixmaps/kinderwald.png
+kinderweltmusik:
+  osIcon: /usr/share/pixmaps/kinderweltmusik.png
+lerntrix:
+  osIcon: /usr/share/pixmaps/lerntrix.png
+mathe-aktiv-multiplikation:
+  osIcon: /usr/share/pixmaps/mathe-aktiv-multiplikation.png
+mathe-aktiv-division:
+  osIcon: /usr/share/pixmaps/mathe-aktiv-division.png
+mathe-aktiv-insaetze:
+  osIcon: /usr/share/pixmaps/mathe-aktiv-insaetze.png
+mathe1trainer:
+ osIcon: /usr/share/pixmaps/mathe1trainer.png 
+mathe2trainer:
+ osIcon: /usr/share/pixmaps/mathe2trainer.png 
+mathe3trainer:
+ osIcon: /usr/share/pixmaps/mathe3trainer.png 
+mathe4trainer:
+ osIcon: /usr/share/pixmaps/mathe4trainer.png 
+mathe-im-netz:
+  osIcon: /usr/share/pixmaps/mathe-im-netz.png
 map-geo-admin:
   osIcon: /usr/share/pixmaps/map-geo-admin.png
+minibooks:
+  osIcon: /usr/share/pixmaps/minibooks.png
+minipodium:
+  osIcon: /usr/share/pixmaps/minipodium.png
+musikwissenschaften:
+  osIcon: /usr/share/pixmaps/musikwissenschaften.png
+mymonent:
+  osIcon: /usr/share/pixmaps/mymoment.png
 netla:
   osIcon: /usr/share/pixmaps/netla.png
 netcity:
   osIcon: /usr/share/pixmaps/netcity.png
+notenmax:
+  osIcon: /usr/share/pixmaps/notenmax.png
 openstreetmap:
   osIcon: /usr/share/pixmaps/openstreetmap.png
+openthesaurus:
+  osIcon: /usr/share/pixmaps/openthesaurus.png
 pahvi:
   osIcon: /usr/share/pixmaps/pahvi.png
   name:
     en: Collaborative Whiteboard 
     de: Zusammenarbeit auf dem Whiteboard
     fr: Tableau blanc collaboratif
+schatz-der-kulturen:
+  osIcon: /usr/share/pixmaps/schatz-der-kulturen.png
+sikore:
+  osIcon: /usr/share/pixmaps/sikore.png
 snap:
   osIcon: /usr/share/pixmaps/snap.png
   name:
     en: Snap-Visual Programming
     de: Snap-Visuelle Programmierung
     fr: Snap-programmation visuelle
-thymiovpl:
-  osIcon: /usr/share/icons/hicolor/48x48/apps/thymiovpl.png
-  name:
-    en: Visual Programming for  Thymio Robots
-    de: Visuelle Programmierung für  Thymio Roboter
-    fr: Programmation visuelle pour robots Thymio
 schulkarte:
   osIcon: /usr/share/pixmaps/schulkarte.png
   name:
@@ -80,6 +126,16 @@ sumopaint:
     sv: Sumopaint-bildbehandling
     de: Sumopaint-Online Bildbearbeitung
     fr: Sumopaint-traitement d'images en ligne
+thymiovpl:
+  osIcon: /usr/share/icons/hicolor/48x48/apps/thymiovpl.png
+  name:
+    en: Visual Programming for  Thymio Robots
+    de: Visuelle Programmierung für  Thymio Roboter
+    fr: Programmation visuelle pour robots Thymio
+tipp10:
+  osIcon: /usr/share/pixmaps/tipp10.png
+unserkoerper:
+  osIcon: /usr/share/pixmaps/unserkoerper.png
 youtube:
   osIcon: /usr/share/icons/Faenza/apps/96/youtube.png
   command: chromium-browser --app=https://youtube.com
@@ -87,3 +143,5 @@ youtube:
     en: Youtube
     de: Youtube
     fr: Youtube
+zeitklicks:
+  osIcon: /usr/share/pixmaps/zeitklicks.png
