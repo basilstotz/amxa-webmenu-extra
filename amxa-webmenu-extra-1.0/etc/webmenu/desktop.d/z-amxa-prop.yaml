@@ -8,7 +8,7 @@ blitzrechnen:
   osIcon: /usr/share/pixmaps/blitzrechnen.png
 rechentraining:
   osIcon: /usr/share/pixmaps/rechentraining.png
-rechentraining6
+rechentraining6:
   osIcon: /usr/share/pixmaps/rechentraining6.png
 logisch1:
   osIcon: /usr/share/pixmaps/logisch1.png
