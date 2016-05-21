@@ -29,6 +29,10 @@
       "items": [
         {
           "type": "desktop",
+          "source": "eleet"
+        },
+        {
+          "type": "desktop",
           "source": "gcalctool"
         },
         {
@@ -82,33 +86,7 @@
         },
         {
           "type": "desktop",
-          "source": "xosview"
-        },
-        {
-          "type": "desktop",
-          "source": "gtk-recordmydesktop"
-        },
-        {
-          "type": "desktop",
-          "source": "unison"
-        },
-        {
-          "type": "desktop",
-          "source": "gtk-recordmydesktop"
-        },
-        {
-          "type": "desktop",
-          "source": "owncloud"
-        },
-        {
-          "type": "desktop",
-          "source": "simple-scan",
-          "inactiveByDeviceType": "thinclient"
-        },
-        {
-          "type": "desktop",
-          "source": "xsane",
-          "inactiveByDeviceType": "thinclient"
+          "source": "javacontrolpanel"
         }
       ]
     },
@@ -176,7 +154,13 @@
         },
         {
           "type": "desktop",
-          "source": "scribus"
+          "source": "simple-scan",
+          "inactiveByDeviceType": "thinclient"
+        },
+        {
+          "type": "desktop",
+          "source": "xsane",
+          "inactiveByDeviceType": "thinclient"
         },
         {
           "type": "desktop",

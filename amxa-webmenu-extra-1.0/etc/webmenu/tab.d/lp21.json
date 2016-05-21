@@ -186,7 +186,19 @@
         },
         {
           "type": "desktop",
+          "source": "mathe3trainer"
+        },
+        {
+          "type": "desktop",
           "source": "mathe4trainer"
+        },
+        {
+          "type": "desktop",
+          "source": "mathe5trainer"
+        },
+        {
+          "type": "desktop",
+          "source": "mathe6trainer"
         },
         {
           "type": "desktop",
@@ -502,6 +514,10 @@
         {
           "type": "desktop",
           "source": "schatz-der-kulturen"
+        },
+        {
+          "type": "desktop",
+          "source": "toporopa"
         },
         {
           "type": "desktop",

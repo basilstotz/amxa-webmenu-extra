@@ -1,6 +1,8 @@
 antolin:
   osIcon: /usr/share/pixmaps/antolin.png
-asebastudio:
+againstallodds:
+  osIcon: /usr/share/pixmaps/againstallodds.png
+  asebastudio:
   osIcon: /usr/share/icons/hicolor/48x48/apps/asebastudio.png
   name:
     en: Aseba Studio for Thymio
@@ -74,6 +76,10 @@ mathe3trainer:
  osIcon: /usr/share/pixmaps/mathe3trainer.png 
 mathe4trainer:
  osIcon: /usr/share/pixmaps/mathe4trainer.png 
+mathe4trainer:
+ osIcon: /usr/share/pixmaps/mathe5trainer.png 
+mathe4trainer:
+ osIcon: /usr/share/pixmaps/mathe6trainer.png 
 mathe-im-netz:
   osIcon: /usr/share/pixmaps/mathe-im-netz.png
 map-geo-admin:
@@ -134,6 +140,8 @@ thymiovpl:
     fr: Programmation visuelle pour robots Thymio
 tipp10:
   osIcon: /usr/share/pixmaps/tipp10.png
+toporopa:
+  osIcon: /usr/share/pixmaps/toporopa.png
 unserkoerper:
   osIcon: /usr/share/pixmaps/unserkoerper.png
 youtube:
