@@ -1,0 +1,69 @@
+{
+  "bubendorf":
+    { 
+      prop: [
+        "leseschlau": "true",
+        "luegeolselaese": "true",
+        "lesewerkstatt": "false",
+        "millefeuille": "true",
+        "newworld": "true",
+        "blitzrechnen": "true",
+        "logisch": "true",
+       "rechentrainer": "true"
+        ],
+      menu: [
+       "games": "true"
+       ]
+     },
+   "laeufelfingen":
+     { 
+     prop: [
+       "leseschlau": "true",
+       "luegeolselaese": "true",
+       "lesewerkstatt": "false",
+       "millefeuille": "true",
+       "newworld": "true",
+       "blitzrechnen": "true",
+       "logisch": "true",
+       "rechentrainer": "true"
+       ]
+     menu: [
+       "games": "true"
+       ]
+     }
+  "ksnuwi":
+     { 
+     prop: [
+       "leseschlau": "true",
+       "luegeolselaese": "true",
+       "lesewerkstatt": "false",
+       "millefeuille": "true",
+       "newworld": "true",
+       "blitzrechnen": "true",
+       "logisch": "true",
+       "rechentrainer": "true"
+       ]
+    menu: [
+       "games": "true"
+       ]
+    }
+  "anwil":
+    { 
+     prop: [
+       "leseschlau": "true",
+       "luegeolselaese": "true",
+       "lesewerkstatt": "false",
+       "millefeuille": "true",
+       "newworld": "true",
+       "blitzrechnen": "true",
+       "logisch": "true",
+       "rechentrainer": "true"
+       ]
+     menu: [
+       "games": "true"
+       ]
+    }
+}
+ 
+     
+     

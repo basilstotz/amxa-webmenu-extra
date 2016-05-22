@@ -2,7 +2,7 @@ antolin:
   osIcon: /usr/share/pixmaps/antolin.png
 againstallodds:
   osIcon: /usr/share/pixmaps/againstallodds.png
-  asebastudio:
+asebastudio:
   osIcon: /usr/share/icons/hicolor/48x48/apps/asebastudio.png
   name:
     en: Aseba Studio for Thymio
@@ -24,6 +24,10 @@ blockly:
     fr: Blockly-programmation visuelle
 bodenreise:
   osIcon: /usr/share/pixmaps/bodenreise.png
+  name:
+    de: Bodenlift 
+    fr: Ascenseur souterain
+    it: Ascensore sotterraneo
 code.org:
   osIcon: /usr/share/pixmaps/code_org.png
   name:
@@ -46,12 +50,14 @@ flickr:
   osIcon: /usr/share/icons/Faenza/apps/48/flickr.png
   name:
     en: flickr-Find Pictures
-    de: flickr-finde Bilder
+    de: flickr-Finde Bilder
     fr: flickr-trouves des images
 fragfinn:
   osIcon: /usr/share/pixmaps/fragfinn.png
 google-translate:
   osIcon: /usr/share/pixmaps/google-translate.png
+impressive:
+    osIcon: /usr/share/pixmaps/impressive.png
 internet-abc:
   osIcon: /usr/share/pixmaps/internet-abc.png
 kindersuchmaschine:
@@ -76,9 +82,9 @@ mathe3trainer:
  osIcon: /usr/share/pixmaps/mathe3trainer.png 
 mathe4trainer:
  osIcon: /usr/share/pixmaps/mathe4trainer.png 
-mathe4trainer:
+mathe5trainer:
  osIcon: /usr/share/pixmaps/mathe5trainer.png 
-mathe4trainer:
+mathe6trainer:
  osIcon: /usr/share/pixmaps/mathe6trainer.png 
 mathe-im-netz:
   osIcon: /usr/share/pixmaps/mathe-im-netz.png
@@ -90,7 +96,7 @@ minipodium:
   osIcon: /usr/share/pixmaps/minipodium.png
 musikwissenschaften:
   osIcon: /usr/share/pixmaps/musikwissenschaften.png
-mymonent:
+mymoment:
   osIcon: /usr/share/pixmaps/mymoment.png
 netla:
   osIcon: /usr/share/pixmaps/netla.png
@@ -105,9 +111,9 @@ openthesaurus:
 pahvi:
   osIcon: /usr/share/pixmaps/pahvi.png
   name:
-    en: Collaborative Whiteboard 
-    de: Zusammenarbeit auf dem Whiteboard
-    fr: Tableau blanc collaboratif
+    en: Pahvi - Collaborative Whiteboard 
+    de: Pahvi- Zusammenarbeit auf dem Whiteboard
+    fr: Pahvi - Tableau blanc collaboratif
 schatz-der-kulturen:
   osIcon: /usr/share/pixmaps/schatz-der-kulturen.png
 sikore:

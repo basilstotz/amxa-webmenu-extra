@@ -3,4 +3,107 @@ qwantjunior:
     fr: Qwantjunior - moteur de recherche
     en: Qwantjunior 
   command: chromium-browser --app=https://www.qwantjunior.com
+  osIcon: /usr/share/pixmaps/qwantjunior.png
+mathesek1-2:
+  name:
+    de: Mathe 1-2 
+  command: chromium-browser --app=http://www.lehrmittelverlag-zuerich.ch/Portals/1/Documents/lehrmittelsites/mathsek1/mathsek1_trainer/a1_2_1_2_1.html  
   osIcon: /usr/share/icons/Faenza/places/48/start-here-mandriva.png
+mathesek1-5:
+  name:
+    de: Mathe Sek 1-5
+  command: chromium-browser --app=http://www.lehrmittelverlag-zuerich.ch/Portals/1/Documents/lehrmittelsites/mathsek1/mathsek1_trainer2/a1_5_1_2_2.html   
+  osIcon: /usr/share/icons/Faenza/places/48/start-here-mandriva.png
+mathesek1-7:
+  name:
+    de: Mathe Sek 1-7
+  command: chromium-browser --app=http://www.lehrmittelverlag-zuerich.ch/Portals/1/Documents/lehrmittelsites/mathsek1/mathsek1_trainer/a3_7_1_1_4.html    
+  osIcon: /usr/share/icons/Faenza/places/48/start-here-mandriva.png
+mathesek1-8:
+  name:
+    de: Mathe Sek 1-8
+  command: chromium-browser --app=http://www.lehrmittelverlag-zuerich.ch/Portals/1/Documents/lehrmittelsites/mathsek1/mathsek1_trainer/a1_8_1_4_2.html   
+  osIcon: /usr/share/icons/Faenza/places/48/start-here-mandriva.png
+mathesek2-5:
+  name:
+    de: Mathe Sek 2-5
+  command: chromium-browser --app=http://www.lehrmittelverlag-zuerich.ch/Portals/1/Documents/lehrmittelsites/mathsek1/mathsek1_trainer2/a1_5_1_2_2.html      
+  osIcon: /usr/share/icons/Faenza/places/48/start-here-mandriva.png
+mathesek2-7:
+  name:
+    de: Mathe Sek 2-7
+  command: chromium-browser --app=http://www.lehrmittelverlag-zuerich.ch/Portals/1/Documents/lehrmittelsites/mathsek1/mathsek1_trainer2/a3_7_1_1_21.html       
+  osIcon: /usr/share/icons/Faenza/places/48/start-here-mandriva.png
+mathesek2-9:
+  name:
+    de: Mathe Sek 2-9
+  command: chromium-browser --app=http://www.lehrmittelverlag-zuerich.ch/Portals/1/Documents/lehrmittelsites/mathsek1/mathsek1_trainer2/a1_9_1_3_1.html        
+  osIcon: /usr/share/icons/Faenza/places/48/start-here-mandriva.png
+mathesek3-6:
+  name:
+    de: Mathe Sek 3-6
+  command: chromium-browser --app=http://www.lehrmittelverlag-zuerich.ch/Portals/1/Documents/lehrmittelsites/mathsek1/mathsek1_trainer3/a1_6_1_1_1.html 
+  osIcon: /usr/share/icons/Faenza/places/48/start-here-mandriva.png
+babbel-de-fr:
+  name:
+    de: Babbel: Lerne Französisch
+  command: chromium-browser --app=https://lp.babbel.com/d/DEU_index.html?action=redirect&button=&controller=welcome&l2=FRA&locale=de&utf8=%E2%9C%93 
+  osIcon: /usr/share/pixmaps/babbel.png
+babbel-de-en:
+  name:
+    de: Babbel: Lerne Englisch
+  command: chromium-browser --app=https://lp.babbel.com/d/DEU_index.html?action=redirect&button=&controller=welcome&l2=ENG&locale=de&utf8=%E2%9C%93 
+  osIcon: /usr/share/pixmaps/babbel.png
+babbel-fr-de:
+  name:
+    fr: Babbel: Apprends l'allemand
+  command: chromium-browser --app=https://lp.babbel.com/d/FRA_index.html?action=redirect&button=&controller=welcome&l2=DEU&locale=fr&utf8=%E2%9C%93  
+  osIcon: /usr/share/pixmaps/babbel.png
+babbel-fr-en:
+  name:
+    fr: Babbel: Aprends l'englais
+  command: chromium-browser --app=https://lp.babbel.com/d/FRA_index.html?action=redirect&button=&controller=welcome&l2=ENG&locale=fr&utf8=%E2%9C%93 
+  osIcon: /usr/share/pixmaps/babbel.png
+babbel-en-fr:
+  name:
+    de: Babbel: Learn French
+  command: chromium-browser --app=https://lp.babbel.com/d/ENG_index.html?action=redirect&button=&controller=welcome&l2=FRA&locale=en_GB&utf8=%E2%9C%93  
+  osIcon: /usr/share/pixmaps/babbel.png
+babbel-en-de:
+  name:
+    en:  Babbel: Learn German
+  command: chromium-browser --app=https://lp.babbel.com/d/ENG_index.html?action=redirect&button=&controller=welcome&l2=DEU&locale=en_GB&utf8=%E2%9C%93 
+  osIcon: /usr/share/pixmaps/babbel.png
+duolingo-de-fr:
+  name:
+    de: Duolingo: Lerne Französisch
+  command: chromium-browser --app=https://de.duolingo.com/course/fr/de/Lerne-Franz%C3%B6sisch-Online  
+  osIcon: /usr/share/pixmaps/duolingo.png
+duolingo-de-en:
+  name:
+    de: Duolingo: Lerne Englisch
+  command: chromium-browser --app=https://de.duolingo.com/course/en/de/Lerne-Englisch-Online  
+  osIcon: /usr/share/pixmaps/duolingo.png
+duolingo-fr-de:
+  name:
+    fr: Duolingo: Apprends l'allemand
+  command: chromium-browser --app=https://fr.duolingo.com/course/de/fr/Apprends-l'allemand-en-ligne   
+  osIcon: /usr/share/pixmaps/duolingo.png
+duolingo-fr-en:
+  name:
+    fr: Duolingo: Apprends l'englais
+  command: chromium-browser --app=https://fr.duolingo.com/course/en/fr/Apprends-l'anglais-en-ligne  
+  osIcon: /usr/share/pixmaps/duolingo.png
+duolingo-en-fr:
+  name:
+    en: Duolingo: Learn French
+  command: chromium-browser --app=https://en.duolingo.com/course/fr/en/Learn-French-Online   
+  osIcon: /usr/share/pixmaps/duolingo.png
+duolingo-en-de:
+  name:
+    en: Duolingo: Learn German
+  command: chromium-browser --app=https://en.duolingo.com/course/de/en/Learn-German-Online  
+  osIcon: /usr/share/pixmaps/duolingo.png
+
+
+  

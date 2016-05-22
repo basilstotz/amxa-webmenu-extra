@@ -83,7 +83,7 @@
         },
         {
           "type": "desktop",
-          "source": "mymonent"
+          "source": "mymoment"
         },
         {
           "type": "desktop",
@@ -200,6 +200,37 @@
           "type": "desktop",
           "source": "mathe6trainer"
         },
+
+        {
+          "type": "desktop",
+          "source": "mathesek1-2"
+        },
+        {
+          "type": "desktop",
+          "source": "mathesek1-5"
+        },
+        {
+          "type": "desktop",
+          "source": "mathesek1-7"
+        },
+        {
+          "type": "desktop",
+          "source": "mathesek1-8"
+        },
+        {
+          "type": "desktop",
+          "source": "mathesek2-7"
+        },
+        {
+          "type": "desktop",
+          "source": "mathesek2-9"
+        },
+        {
+          "type": "desktop",
+          "source": "mathesek3-6"
+        },
+
+
         {
           "type": "desktop",
           "source": "sikore"
@@ -297,7 +328,11 @@
         },
         {
           "type": "desktop",
-          "source": "duolingo"
+          "source": "duolingo-de-fr"
+        },
+        {
+          "type": "desktop",
+          "source": "babbel-de-fr"
         },
         {
           "type": "desktop",
@@ -331,7 +366,11 @@
         },
         {
           "type": "desktop",
-          "source": "duolingo"
+          "source": "duolingo-de-en"
+        },
+        {
+          "type": "desktop",
+          "source": "babbel-de-en"
         },
         {
           "type": "desktop",
@@ -522,6 +561,10 @@
         {
           "type": "desktop",
           "source": "zeitklicks"
+        },
+        {
+          "type": "desktop",
+          "source": "againstallodds"
         },
         {
           "type": "desktop",

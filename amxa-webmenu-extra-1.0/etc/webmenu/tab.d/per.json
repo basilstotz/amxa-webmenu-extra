@@ -77,10 +77,6 @@
         },
         {
           "type": "desktop",
-          "source": "gompris"
-        },
-        {
-          "type": "desktop",
           "source": "gcompris"
         },
         {
@@ -121,7 +117,11 @@
       "items": [
         {
           "type": "desktop",
-          "source": "duolingo"
+          "source": "duolingo-fr-de"
+        },
+        {
+          "type": "desktop",
+          "source": "babbel-fr-de"
         },
         {
           "type": "desktop",
@@ -145,7 +145,11 @@
       "items": [
         {
           "type": "desktop",
-          "source": "duolingo"
+          "source": "duolingo-fr-en"
+        },
+        {
+          "type": "desktop",
+          "source": "babbel-fr-en"
         },
         {
           "type": "desktop",
@@ -287,6 +291,10 @@
         },
         {
           "type": "desktop",
+          "source": "toporopa"
+        },
+        {
+          "type": "desktop",
           "source": "marble"
         },
         {
@@ -308,6 +316,10 @@
         {
           "type": "desktop",
           "source": "openstreetmap"
+        },
+        {
+          "type": "desktop",
+          "source": "againstallodds"
         },
 
         {

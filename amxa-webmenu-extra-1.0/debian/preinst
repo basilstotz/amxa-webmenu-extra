@@ -16,7 +16,8 @@ set -e
 
 case "$1" in
     install|upgrade)
-      for N in $(ls /etc/webmenu/tab.d/*yaml); do
+      for N in $(find /etc/webmenu/tab.d/ -name  \*yaml); do
+      #for N in $(ls /etc/webmenu/tab.d/*yaml); do
         mv $N $N.opinsys
       done
     ;;

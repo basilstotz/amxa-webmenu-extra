@@ -117,7 +117,7 @@
       "name": {
         "en": "Graphics",
         "fi": "Grafiikka",
-	"fr": "Grafique",
+	"fr": "Graphisme",
         "sv": "Grafik",
         "de": "Grafik"
       },
@@ -192,7 +192,11 @@
     {
       "type": "menu",
       "name": {
-        "en": "Internet"
+        "en": "Internet",
+        "fi": "Internet",
+        "fr": "Internet",
+        "sv": "Internet",
+        "de": "Internet"
       },
       "description": {
         "en": "Internet-applications",
@@ -229,10 +233,6 @@
         },
         {
           "type": "desktop",
-          "source": "gftp"
-        },
-        {
-          "type": "desktop",
           "source": "liferea"
         },
         {
@@ -260,6 +260,10 @@
         {
           "type": "desktop",
           "source": "dropbox"
+        },
+        {
+          "type": "desktop",
+          "source": "owncloud"
         },
         {
           "type": "desktop",
@@ -480,7 +484,7 @@
       "name": {
         "en": "Office",
         "fi": "Toimisto",
-	"fr": "Bureau",
+	"fr": "Bureautique",
         "sv": "Kontor",
         "de": "Büro"
       },
@@ -543,11 +547,19 @@
         },
         {
           "type": "desktop",
+          "source": "impressive"
+        },
+        {
+          "type": "desktop",
           "source": "tellico"
         },
         {
           "type": "desktop",
           "source": "primusclient"
+        },
+        {
+          "type": "desktop",
+          "source": "xmind"
         },
         {
           "type": "desktop",
@@ -558,17 +570,67 @@
     {
       "type": "menu",
       "name": {
+        "en": "Science",
+	"fr": "Sciences",
+        "de": "Wissenschaften"
+      },
+      "osIcon": "applications-science",
+      "items": [
+        {
+          "type": "desktop",
+          "source": "celestia",
+          "inactiveByDeviceType": "thinclient"
+        },
+        {
+          "type": "desktop",
+          "source": "stellarium",
+          "inactiveByDeviceType": "thinclient"
+        },
+        {
+          "type": "desktop",
+          "source": "kstars"
+        }
+      ]
+    },
+    {
+      "type": "menu",
+      "name": {
+        "en": "Games",
+	"fr": "Jeux",
+        "de": "Spiele"
+      },
+      "osIcon": "applications-games",
+      "items": [
+        {
+          "type": "desktop",
+          "source": "celestia",
+          "inactiveByDeviceType": "thinclient"
+        },
+        {
+          "type": "desktop",
+          "source": "stellarium",
+          "inactiveByDeviceType": "thinclient"
+        },
+        {
+          "type": "desktop",
+          "source": "kstars"
+        }
+      ]
+    },
+    {
+      "type": "menu",
+      "name": {
         "en": "Audio and video",
         "fi": "Ääni ja video",
-	"fr": "Audio et Vidéo",
+	"fr": "Son et Vidéo",
         "sv": "Ljud och Video",
         "de": "Audio und Video"
       },
       "description": {
         "en": "Multimedia-applications",
-        "fi": "Internet-sovellukset",
+        "fi": "Multimedia-sovellukset",
 	"fr": "Applications Multimedia",
-        "sv": "Internet -applikationer",
+        "sv": "Multimedia -applikationer",
         "de": "Muktimedia Programme"
       },
       "osIcon": "applications-multimedia",
