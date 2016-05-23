@@ -296,6 +296,26 @@
         },
         {
           "type": "desktop",
+          "source": "asebastudio"
+        },
+        {
+          "type": "desktop",
+          "source": "thymiovpl"
+        },
+        {
+          "type": "desktop",
+          "source": "processing"
+        },
+        {
+          "type": "desktop",
+          "source": "blockly"
+        },
+        {
+          "type": "desktop",
+          "source": "snap"
+        },
+        {
+          "type": "desktop",
           "source": "arduino",
           "inactiveByDeviceType": "thinclient"
         },
@@ -648,7 +668,7 @@
         },
         {
           "type": "desktop",
-          "source": "omgrip"
+          "source": "ogmrip"
         },
         {
           "type": "desktop",
@@ -698,11 +718,12 @@
         },
         {
           "type": "desktop",
-          "source": "avidemux"
+          "source": "avidemux-gtk"
         },
         {
           "type": "desktop",
-          "source": "handbrake-gtk"
+          "source": "ghb",
+          "inactiveByDeviceType": "thinclient"
         },
         {
           "type": "desktop",
@@ -714,31 +735,11 @@
         },
         {
           "type": "desktop",
-          "source": "solfege"
-        },
-        {
-          "type": "desktop",
-          "source": "mscore"
-        },
-        {
-          "type": "desktop",
-          "source": "denemo"
-        },
-        {
-          "type": "desktop",
           "source": "hydrogen"
         },
         {
           "type": "desktop",
           "source": "rosegarden"
-        },
-        {
-          "type": "desktop",
-          "source": "tuxguitar"
-        },
-        {
-          "type": "desktop",
-          "source": "fmit"
         },
         {
           "type": "desktop",

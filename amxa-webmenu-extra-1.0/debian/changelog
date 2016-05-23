@@ -1,3 +1,27 @@
+amxa-webmenu-extra (1.0-1ubuntu34) precise; urgency=low
+
+  * added individual menu envs
+
+ -- root <root@bootserver.amxa.opinys.fi>  Mon, 23 May 2016 19:35:58 +0200
+
+amxa-webmenu-extra (1.0-1ubuntu33) precise; urgency=low
+
+  * added some apps to develloping
+
+ -- root <root@bootserver.amxa.opinys.fi>  Mon, 23 May 2016 17:54:22 +0200
+
+amxa-webmenu-extra (1.0-1ubuntu32) precise; urgency=low
+
+  * again
+
+ -- root <root@bootserver.amxa.opinys.fi>  Mon, 23 May 2016 17:31:04 +0200
+
+amxa-webmenu-extra (1.0-1ubuntu31) precise; urgency=low
+
+  * better menu
+
+ -- root <root@bootserver.amxa.opinys.fi>  Mon, 23 May 2016 17:28:30 +0200
+
 amxa-webmenu-extra (1.0-1ubuntu30) precise; urgency=low
 
   * fixed error

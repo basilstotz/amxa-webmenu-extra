@@ -258,6 +258,11 @@
         },
         {
           "type": "desktop",
+          "source": "blockly"
+        },
+
+        {
+          "type": "desktop",
           "source": "arduino",
           "inactiveByDeviceType": "thinclient"
         }

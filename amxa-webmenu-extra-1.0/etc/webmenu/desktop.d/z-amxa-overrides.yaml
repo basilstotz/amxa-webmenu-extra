@@ -108,6 +108,11 @@ openstreetmap:
   osIcon: /usr/share/pixmaps/openstreetmap.png
 openthesaurus:
   osIcon: /usr/share/pixmaps/openthesaurus.png
+owncloud:
+  name:
+    en: Owncloud 
+    de: Owncloud
+    fr: Owncloud   
 pahvi:
   osIcon: /usr/share/pixmaps/pahvi.png
   name:
@@ -151,7 +156,7 @@ toporopa:
 unserkoerper:
   osIcon: /usr/share/pixmaps/unserkoerper.png
 xosview:
-  osIcon: /usr/share/pixmaps/xosview.xpm
+  osIcon: /usr/share/pixmaps/xosview.png
 youtube:
   osIcon: /usr/share/icons/Faenza/apps/96/youtube.png
   command: chromium-browser --app=https://youtube.com

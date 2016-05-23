@@ -200,37 +200,6 @@
           "type": "desktop",
           "source": "mathe6trainer"
         },
-
-        {
-          "type": "desktop",
-          "source": "mathesek1-2"
-        },
-        {
-          "type": "desktop",
-          "source": "mathesek1-5"
-        },
-        {
-          "type": "desktop",
-          "source": "mathesek1-7"
-        },
-        {
-          "type": "desktop",
-          "source": "mathesek1-8"
-        },
-        {
-          "type": "desktop",
-          "source": "mathesek2-7"
-        },
-        {
-          "type": "desktop",
-          "source": "mathesek2-9"
-        },
-        {
-          "type": "desktop",
-          "source": "mathesek3-6"
-        },
-
-
         {
           "type": "desktop",
           "source": "sikore"
@@ -615,6 +584,10 @@
           "source": "notenmax"
         },
         {
+          "source": "flubidux",
+          "type": "desktop"
+        },
+        {
           "type": "desktop",
           "source": "audacity"
         },
@@ -636,6 +609,14 @@
         },
         {
           "source": "spotify",
+          "type": "desktop"
+        },
+        {
+          "source": "fmit",
+          "type": "desktop"
+        },
+        {
+          "source": "rosegarden",
           "type": "desktop"
         },
         {
@@ -721,6 +702,10 @@
         {
           "type": "desktop",
           "source": "openshot"
+        },
+        {
+          "source": "rosegarden",
+          "type": "desktop"
         },
         {
           "type": "desktop",
