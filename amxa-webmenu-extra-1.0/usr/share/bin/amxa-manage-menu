@@ -1,0 +1,38 @@
+#!/bin/sh
+if test -z "$1"; then
+  echo "usage: $0 [addtab|removetab|fullmenu|origmenu]"
+  exit 1
+fi
+
+if ! test -d $HOME/.config/webmenu/tab.d; then
+  mkdir -p $HOME/.config/webmenu/tab.d/
+fi
+
+case $1 in
+   addtab)
+        webmenu-xdg | /usr/share/bin/webmenu-prepare.sh > $HOME/.config/webmenu/tab.d/zz-full.json
+        webmenu&
+        ;;
+   removetab)
+        if test -e $HOME/.config/webmenu/tab.d/zz-full.json; then
+           rm $HOME/.config/webmenu/tab.d/zz-full.json
+           webmenu&
+        fi
+        ;;
+   fullmenu)
+        cp $HOME/.config/menu.json $HOME/.config/menu.json.orig
+        webmenu-xdg | /usr/share/bin/webmenu-prepare.sh > $HOME/.config/menu.json
+        webmenu&
+        ;;
+   origmenu)
+        if test -e $HOME/.config/menu.json.orig; then
+          mv $HOME/.config/menu.json.orig $HOME/.config/menu.json
+          webmenu&
+        fi
+        ;;
+    *)
+       echo "usage: $0 [addtab|removetab|fullmenu|origmenu]"
+       exit 1
+        ;;
+esac
+exit 0
