@@ -121,9 +121,9 @@ sikore:
 snap:
   osIcon: /usr/share/pixmaps/snap.png
   name:
-    en: Snap-Visual Programming
-    de: Snap-Visuelle Programmierung
-    fr: Snap-programmation visuelle
+    en: Snap - Visual Programming
+    de: Snap - Visuelle Programmierung
+    fr: Snap - programmation visuelle
 schulkarte:
   osIcon: /usr/share/pixmaps/schulkarte.png
   name:
@@ -133,23 +133,25 @@ schulkarte:
 sumopaint:
   osIcon:  /usr/share/pixmaps/sumopaint.png
   name:
-    en: Sumopaint-online graphics editor
-    fi: Sumopaint-webkuvankäsittely
-    sv: Sumopaint-bildbehandling
-    de: Sumopaint-Online Bildbearbeitung
-    fr: Sumopaint-traitement d'images en ligne
+    en: Sumopaint - online graphics editor
+    fi: Sumopaint - webkuvankäsittely
+    sv: Sumopaint - bildbehandling
+    de: Sumopaint - Online Bildbearbeitung
+    fr: Sumopaint - traitement d'images en ligne
 thymiovpl:
   osIcon: /usr/share/icons/hicolor/48x48/apps/thymiovpl.png
   name:
-    en: Visual Programming for  Thymio Robots
-    de: Visuelle Programmierung für  Thymio Roboter
-    fr: Programmation visuelle pour robots Thymio
+    en: Thymio - Visual Programming 
+    de: Thymio - Visuelle Programmierung
+    fr: Thymio - programmation visuelle 
 tipp10:
   osIcon: /usr/share/pixmaps/tipp10.png
 toporopa:
   osIcon: /usr/share/pixmaps/toporopa.png
 unserkoerper:
   osIcon: /usr/share/pixmaps/unserkoerper.png
+xosview:
+  osIcon: /usr/share/pixmaps/xosview.xpm
 youtube:
   osIcon: /usr/share/icons/Faenza/apps/96/youtube.png
   command: chromium-browser --app=https://youtube.com

@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Mon, 23 May 2016 11:06:52 +0200
+Source: amxa-webmenu-extra
+Binary: amxa-webmenu-extra
+Architecture: source all
+Version: 1.0-1ubuntu27
+Distribution: precise
+Urgency: low
+Maintainer: Basil Stotz <stotz@amxa.ch>
+Changed-By: root <root@bootserver.amxa.opinys.fi>
+Description: 
+ amxa-webmenu-extra - adds amxa menus
+Changes: 
+ amxa-webmenu-extra (1.0-1ubuntu27) precise; urgency=low
+ .
+   * fixed xosview icon
+Checksums-Sha1: 
+ 4664304e15f9c941750a7c562df98a9845e23a40 634 amxa-webmenu-extra_1.0-1ubuntu27.dsc
+ a9488cbeb1f3d14fd3262087e77dd2c1f4e4cb97 29187 amxa-webmenu-extra_1.0-1ubuntu27.tar.gz
+ 999681f06e0018eb32804f783e5e6d514401207b 19264 amxa-webmenu-extra_1.0-1ubuntu27_all.deb
+Checksums-Sha256: 
+ ffce03840b666463b05ca917a144fd338f5582fc68a742fb1c50f722d9666e28 634 amxa-webmenu-extra_1.0-1ubuntu27.dsc
+ 129ec38468e47fc7afe50a80b6529850b598f25de0792ad159395d885a875e60 29187 amxa-webmenu-extra_1.0-1ubuntu27.tar.gz
+ 3cfa3960bda97df39152a58d53c50c29f0312955a09aff20ab0c70316f737046 19264 amxa-webmenu-extra_1.0-1ubuntu27_all.deb
+Files: 
+ 71e18bd80112ef6f06a83f3b753e740f 634 unknown extra amxa-webmenu-extra_1.0-1ubuntu27.dsc
+ 4f7cbcfaa1a26234d38cdda4c9a03cc4 29187 unknown extra amxa-webmenu-extra_1.0-1ubuntu27.tar.gz
+ 53ccb590cd92c3b5a28eae260c450c15 19264 unknown extra amxa-webmenu-extra_1.0-1ubuntu27_all.deb

@@ -527,6 +527,18 @@
         },
         {
           "type": "desktop",
+          "source": "gummi"
+        },
+        {
+          "type": "desktop",
+          "source": "youtube-dl"
+        },
+        {
+          "type": "desktop",
+          "source": "pdfshuffler"
+        },
+        {
+          "type": "desktop",
           "source": "vym"
         },
         {
@@ -594,6 +606,7 @@
     },
     {
       "type": "menu",
+      "condition": "5==7",
       "name": {
         "en": "Games",
 	"fr": "Jeux",
@@ -601,20 +614,6 @@
       },
       "osIcon": "applications-games",
       "items": [
-        {
-          "type": "desktop",
-          "source": "celestia",
-          "inactiveByDeviceType": "thinclient"
-        },
-        {
-          "type": "desktop",
-          "source": "stellarium",
-          "inactiveByDeviceType": "thinclient"
-        },
-        {
-          "type": "desktop",
-          "source": "kstars"
-        }
       ]
     },
     {
@@ -699,6 +698,18 @@
         },
         {
           "type": "desktop",
+          "source": "avidemux"
+        },
+        {
+          "type": "desktop",
+          "source": "handbrake-gtk"
+        },
+        {
+          "type": "desktop",
+          "source": "vlc"
+        },
+        {
+          "type": "desktop",
           "source": "pitivi"
         },
         {
@@ -737,11 +748,6 @@
           "type": "desktop",
           "inactiveByDeviceType": "thinclient",
           "source": "qsynth"
-        },
-        {
-          "type": "desktop",
-          "inactiveByDeviceType": "thinclient",
-          "source": "qjackctl"
         }
       ]
     },
