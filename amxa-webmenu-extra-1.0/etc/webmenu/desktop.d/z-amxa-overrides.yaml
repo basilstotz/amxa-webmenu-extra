@@ -119,6 +119,10 @@ pahvi:
     en: Pahvi - Collaborative Whiteboard 
     de: Pahvi- Zusammenarbeit auf dem Whiteboard
     fr: Pahvi - Tableau blanc collaboratif
+processing:
+  osIcon: /usr/share/pixmaps/processing.png
+pycharm:
+  osIcon: /opt/pycharm/bin/pycharm.png
 schatz-der-kulturen:
   osIcon: /usr/share/pixmaps/schatz-der-kulturen.png
 sikore:

@@ -45,17 +45,17 @@
         {
           "type": "desktop",
           "source": "leseschlau",
-          "condition": "env.PROP"
+          "condition": "env.M_PROP"
         },
         {
           "type": "desktop",
           "source": "luegeloselaese",
-          "condition": "env.PROP"
+          "condition": "env.M_PROP"
         },
         {
           "type": "desktop",
           "source": "lesewerkstatt",
-          "condition": "env.PROP"
+          "condition": "env.M_LESEWERKSTATT"
         },
         {
           "type": "desktop",
@@ -113,47 +113,47 @@
         {
           "type": "desktop",
           "source": "blitzrechnen",
-          "condition": "env.PROP"
+          "condition": "env.M_PROP"
         },
         {
           "type": "desktop",
           "source": "rechentraining",
-          "condition": "env.PROP"
+          "condition": "env.M_PROP"
         },
         {
           "type": "desktop",
           "source": "rechentraining6",
-          "condition": "env.PROP"
+          "condition": "env.M_PROP"
         },
         {
           "type": "desktop",
           "source": "logisch1",
-          "condition": "env.PROP"
+          "condition": "env.M_PROP"
         },
         {
           "type": "desktop",
           "source": "logisch2",
-          "condition": "env.PROP"
+          "condition": "env.M_PROP"
         },
         {
           "type": "desktop",
           "source": "logisch3",
-          "condition": "env.PROP"
+          "condition": "env.M_PROP"
         },
         {
           "type": "desktop",
           "source": "logisch4",
-          "condition": "env.PROP"
+          "condition": "env.M_PROP"
         },
         {
           "type": "desktop",
           "source": "logisch5",
-          "condition": "env.PROP"
+          "condition": "env.M_PROP"
         },
         {
           "type": "desktop",
           "source": "logisch6",
-          "condition": "env.PROP"
+          "condition": "env.M_PROP"
         },
 
         {
@@ -244,52 +244,52 @@
         {
           "type": "desktop",
           "source": "millefeuilles3.1",
-          "condition": "env.PROP"
+          "condition": "env.M_PROP"
         },
         {
           "type": "desktop",
           "source": "millefeuilles3.2",
-          "condition": "env.PROP"
+          "condition": "env.M_PROP"
         },
         {
           "type": "desktop",
           "source": "millefeuilles3.3",
-          "condition": "env.PROP"
+          "condition": "env.M_PROP"
         },
         {
           "type": "desktop",
           "source": "millefeuilles4.1",
-          "condition": "env.PROP"
+          "condition": "env.M_PROP"
         },
         {
           "type": "desktop",
           "source": "millefeuilles4.2",
-          "condition": "env.PROP"
+          "condition": "env.M_PROP"
         },
         {
           "type": "desktop",
           "source": "millefeuilles4.3",
-          "condition": "env.PROP"
+          "condition": "env.M_PROP"
         },
         {
           "type": "desktop",
           "source": "millefeuilles5.1",
-          "condition": "env.PROP"
+          "condition": "env.M_PROP"
         },
         {
           "type": "desktop",
           "source": "millefeuilles5.2",
-          "condition": "env.PROP"
+          "condition": "env.M_PROP"
         },
         {
           "type": "desktop",
           "source": "millefeuilles6.1",
-          "condition": "env.PROP"
+          "condition": "env.M_PROP"
         },
         {
           "type": "desktop",
           "source": "millefeuilles6.2",
-          "condition": "env.PROP"
+          "condition": "env.M_PROP"
         },
         {
           "type": "desktop",
@@ -326,12 +326,12 @@
         {
           "type": "desktop",
           "source": "newworld1",
-          "condition": "env.PROP"
+          "condition": "env.M_PROP"
         },
         {
           "type": "desktop",
           "source": "newworld2",
-          "condition": "env.PROP"
+          "condition": "env.M_PROP"
         },
         {
           "type": "desktop",

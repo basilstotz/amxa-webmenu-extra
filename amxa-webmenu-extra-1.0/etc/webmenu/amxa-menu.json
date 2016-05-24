@@ -98,10 +98,6 @@
         },
         {
           "type": "desktop",
-          "source": "owncloud"
-        },
-        {
-          "type": "desktop",
           "source": "simple-scan",
           "inactiveByDeviceType": "thinclient"
         },
@@ -626,7 +622,7 @@
     },
     {
       "type": "menu",
-      "condition": "5==7",
+      "condition": "emv.M_GAMES",
       "name": {
         "en": "Games",
 	"fr": "Jeux",
