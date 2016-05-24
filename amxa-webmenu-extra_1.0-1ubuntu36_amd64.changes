@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Tue, 24 May 2016 11:31:47 +0200
+Source: amxa-webmenu-extra
+Binary: amxa-webmenu-extra
+Architecture: source all
+Version: 1.0-1ubuntu36
+Distribution: precise
+Urgency: low
+Maintainer: Basil Stotz <stotz@amxa.ch>
+Changed-By: root <root@bootserver.amxa.opinys.fi>
+Description: 
+ amxa-webmenu-extra - adds amxa menus
+Changes: 
+ amxa-webmenu-extra (1.0-1ubuntu36) precise; urgency=low
+ .
+   * new envs
+Checksums-Sha1: 
+ a2a232496da6e1ebe0f834edf205a5779c087269 634 amxa-webmenu-extra_1.0-1ubuntu36.dsc
+ a12e26c4fba711327495e2bb6bd2a33540ff9052 26881 amxa-webmenu-extra_1.0-1ubuntu36.tar.gz
+ 771eac4d5fc71416c4173f88b1a1a88bebf9e132 17044 amxa-webmenu-extra_1.0-1ubuntu36_all.deb
+Checksums-Sha256: 
+ f0f88c432dd0457bb34b3476aa12247224c8e6716def314eec24e373410e10c1 634 amxa-webmenu-extra_1.0-1ubuntu36.dsc
+ 0b2b8f11017f8df365936e0f57456dc12d6be522c9df00177c2e4c47c6812078 26881 amxa-webmenu-extra_1.0-1ubuntu36.tar.gz
+ 5d8a245e3f6c95aea787c2096c493dd2b77eed0ff2574d7e050ca8740dc1c8db 17044 amxa-webmenu-extra_1.0-1ubuntu36_all.deb
+Files: 
+ b3f4176d9a488283fb1f54163b236e03 634 unknown extra amxa-webmenu-extra_1.0-1ubuntu36.dsc
+ 0bfad8ab3c1eef0615f4b7796f2e1e62 26881 unknown extra amxa-webmenu-extra_1.0-1ubuntu36.tar.gz
+ df5f73b818b422295f4070eff69757eb 17044 unknown extra amxa-webmenu-extra_1.0-1ubuntu36_all.deb

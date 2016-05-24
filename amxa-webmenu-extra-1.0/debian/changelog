@@ -1,3 +1,9 @@
+amxa-webmenu-extra (1.0-1ubuntu36) precise; urgency=low
+
+  * new envs
+
+ -- root <root@bootserver.amxa.opinys.fi>  Tue, 24 May 2016 11:31:47 +0200
+
 amxa-webmenu-extra (1.0-1ubuntu35) precise; urgency=low
 
   * fixed minor errors
