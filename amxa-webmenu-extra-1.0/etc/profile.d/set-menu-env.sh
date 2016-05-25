@@ -1,10 +1,13 @@
 ORG=$(cat /etc/puavo/domain|cut -d. -f1)
 
+export PAUVO_ORG=$ORG
+
 if test -n "$PUAVO_SESSION_PATH" -a -e "$PUAVO_SESSION_PATH"; then
   TYPE=$(jq .user.user_type $PUAVO_SESSION_PATH|sed 's/"//g')
 else
   TYPE="guest"
 fi
+export PUAVO_USERTYPE=$TYPE
 
 case $ORG in
   anwil)
