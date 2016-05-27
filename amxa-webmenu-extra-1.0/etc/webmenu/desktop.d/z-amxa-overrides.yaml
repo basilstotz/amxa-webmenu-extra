@@ -68,6 +68,8 @@ kinderweltmusik:
   osIcon: /usr/share/pixmaps/kinderweltmusik.png
 lerntrix:
   osIcon: /usr/share/pixmaps/lerntrix.png
+lehreroffice:
+  osIcon: /usr/share/pixmaps/lehreroffice.png
 mathe-aktiv-multiplikation:
   osIcon: /usr/share/pixmaps/mathe-aktiv-multiplikation.png
 mathe-aktiv-division:
@@ -159,6 +161,8 @@ toporopa:
   osIcon: /usr/share/pixmaps/toporopa.png
 unserkoerper:
   osIcon: /usr/share/pixmaps/unserkoerper.png
+webmenu-editor:
+  osIcon: /usr/share/pixmaps/flubidux.png
 xosview:
   osIcon: /usr/share/pixmaps/xosview.png
 youtube:

@@ -1,3 +1,39 @@
+amxa-webmenu-extra (1.0-1ubuntu42) precise; urgency=low
+
+  * better envs
+
+ -- root <root@bootserver.amxa.opinys.fi>  Fri, 27 May 2016 16:47:44 +0200
+
+amxa-webmenu-extra (1.0-1ubuntu41) precise; urgency=low
+
+  * missing kommata
+
+ -- root <root@bootserver.amxa.opinys.fi>  Thu, 26 May 2016 11:28:26 +0200
+
+amxa-webmenu-extra (1.0-1ubuntu40) precise; urgency=low
+
+  * newbuild
+
+ -- root <root@bootserver.amxa.opinys.fi>  Thu, 26 May 2016 11:21:21 +0200
+
+amxa-webmenu-extra (1.0-1ubuntu39) precise; urgency=low
+
+  * added lehreroffice & webmenu-editor
+
+ -- root <root@bootserver.amxa.opinys.fi>  Thu, 26 May 2016 11:17:49 +0200
+
+amxa-webmenu-extra (1.0-1ubuntu38) precise; urgency=low
+
+  * typo
+
+ -- root <root@bootserver.amxa.opinys.fi>  Thu, 26 May 2016 11:02:07 +0200
+
+amxa-webmenu-extra (1.0-1ubuntu37) precise; urgency=low
+
+  * newbuild
+
+ -- root <root@bootserver.amxa.opinys.fi>  Thu, 26 May 2016 10:43:52 +0200
+
 amxa-webmenu-extra (1.0-1ubuntu36) precise; urgency=low
 
   * new envs

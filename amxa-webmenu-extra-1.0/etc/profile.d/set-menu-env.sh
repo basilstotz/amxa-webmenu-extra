@@ -1,7 +1,8 @@
+#organisation
 ORG=$(cat /etc/puavo/domain|cut -d. -f1)
+export PUAVO_ORG=$ORG
 
-export PAUVO_ORG=$ORG
-
+#usertype
 if test -n "$PUAVO_SESSION_PATH" -a -e "$PUAVO_SESSION_PATH"; then
   TYPE=$(jq .user.user_type $PUAVO_SESSION_PATH|sed 's/"//g')
 else
@@ -9,6 +10,31 @@ else
 fi
 export PUAVO_USERTYPE=$TYPE
 
+#school
+SCHOOL=$(ls  -l /home/|grep $USER$|xargs|cut -d\  -f4)
+export PUAVO_SCHOOL=$SCHOOL
+
+#class
+GROUPS=$(groups)
+if test "$TYPE" = "student"; then
+  for G in $GOUPS; do
+    if echo $G|grep -q "20"; then
+      CLASS=$G
+  done
+else
+  CLASS=$TYPE
+fi
+if ! test "$CLASS" = "$TYPE"  then
+  export PUAVO_CLASS=$CLASS
+fi
+
+#like this (maybe)
+#wget -O $HOME/.config/webmenu/menu.json  \ 
+#     http://hadar.amxa.ch/$ORG/$SCHOOL/menu.php?user=$USER&type=$TYPE&class=$CLASS
+#wget -O $HOME/.config/webmenu/tab.d/aa-tab.json \
+#     http://hadar.amxa.ch/$ORG/$SCHOOL/tab.php?user=$USER&type=$TYPE&class=$CLASS
+
+#will probably change soon
 case $ORG in
   anwil)
       LIST="M_PROP M_GAMES"
@@ -30,8 +56,8 @@ case $ORG in
       ;;
 esac
 
+
 if test "$TYPE" = "student"; then
-   GROUPS=$(groups)
    for F in $FIRST; do
       if echo $GROUPS|grep -q $F; then
          export M_FIRST=1

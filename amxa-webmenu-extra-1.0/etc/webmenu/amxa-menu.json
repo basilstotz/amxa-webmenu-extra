@@ -29,6 +29,16 @@
       "items": [
         {
           "type": "desktop",
+          "source": "lehreroffice",
+          "condition": "env.LANGUAGE==\"de\"&&env.PUAVO_USERTYPE!=\"student\"&&env.PUAVO_USERTYPE!=\"guest\""
+        },
+        {
+          "type": "desktop",
+          "source": "webmenu-editor",
+          "condition": "env.PUAVO_USERTYPE!=\"student\"&&env.PUAVO_USERTYPE!=\"guest\"&&env.PUAVO_ORG==\"basel\""
+        },
+        {
+          "type": "desktop",
           "source": "gcalctool"
         },
         {
