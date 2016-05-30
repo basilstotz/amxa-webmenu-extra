@@ -66,6 +66,10 @@ if test "$TYPE" = "student"; then
    done
 fi
 
+if test -e $HOME/.config/webmenu/menu.json; then
+  export M_CUSTOM=1
+fi
+
 for L in $LIST; do
   export $L=1
 done
