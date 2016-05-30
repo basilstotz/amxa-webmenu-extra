@@ -1,3 +1,39 @@
+amxa-webmenu-extra (1.0-1ubuntu48) precise; urgency=low
+
+  * fixed SCHOOL for guest user
+
+ -- root <root@bootserver.amxa.opinys.fi>  Sun, 29 May 2016 16:37:47 +0200
+
+amxa-webmenu-extra (1.0-1ubuntu47) precise; urgency=low
+
+  * again
+
+ -- root <root@bootserver.amxa.opinys.fi>  Sun, 29 May 2016 12:03:41 +0200
+
+amxa-webmenu-extra (1.0-1ubuntu46) precise; urgency=low
+
+  * added tuxpaint to lp21
+
+ -- root <root@bootserver.amxa.opinys.fi>  Sun, 29 May 2016 11:58:58 +0200
+
+amxa-webmenu-extra (1.0-1ubuntu45) precise; urgency=low
+
+  * added leo & fixed flubidux icon
+
+ -- root <root@bootserver.amxa.opinys.fi>  Sun, 29 May 2016 11:55:07 +0200
+
+amxa-webmenu-extra (1.0-1ubuntu44) precise; urgency=low
+
+  * fixed error in profile.d
+
+ -- root <root@bootserver.amxa.opinys.fi>  Sat, 28 May 2016 08:25:13 +0200
+
+amxa-webmenu-extra (1.0-1ubuntu43) precise; urgency=low
+
+  * added env.M_CUSTOM
+
+ -- root <root@bootserver.amxa.opinys.fi>  Sat, 28 May 2016 07:50:39 +0200
+
 amxa-webmenu-extra (1.0-1ubuntu42) precise; urgency=low
 
   * better envs

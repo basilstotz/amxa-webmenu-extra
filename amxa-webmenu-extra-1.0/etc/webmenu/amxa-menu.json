@@ -277,6 +277,10 @@
         },
         {
           "type": "desktop",
+          "source": "youtube-dlg"
+        },
+        {
+          "type": "desktop",
           "source": "vmware-view-client",
           "name": {
             "en": "Vmware client"
@@ -311,10 +315,6 @@
         {
           "type": "desktop",
           "source": "processing"
-        },
-        {
-          "type": "desktop",
-          "source": "blockly"
         },
         {
           "type": "desktop",

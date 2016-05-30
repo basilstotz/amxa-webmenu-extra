@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Sun, 29 May 2016 16:37:47 +0200
+Source: amxa-webmenu-extra
+Binary: amxa-webmenu-extra
+Architecture: source all
+Version: 1.0-1ubuntu48
+Distribution: precise
+Urgency: low
+Maintainer: Basil Stotz <stotz@amxa.ch>
+Changed-By: root <root@bootserver.amxa.opinys.fi>
+Description: 
+ amxa-webmenu-extra - adds amxa menus
+Changes: 
+ amxa-webmenu-extra (1.0-1ubuntu48) precise; urgency=low
+ .
+   * fixed SCHOOL for guest user
+Checksums-Sha1: 
+ cbf49dbdb77917e5d259ad49f6d1c157e74a67a9 634 amxa-webmenu-extra_1.0-1ubuntu48.dsc
+ 23b1ac5763298033112a1b3f378269ac5f528f4a 27620 amxa-webmenu-extra_1.0-1ubuntu48.tar.gz
+ 266c6e03c9cefed22222eee1dabdae9ea93bee17 17934 amxa-webmenu-extra_1.0-1ubuntu48_all.deb
+Checksums-Sha256: 
+ 3847da7f24c0ea31e0c3600c38c1648a9882ab4d22e1feacb09e3f5b971c63d7 634 amxa-webmenu-extra_1.0-1ubuntu48.dsc
+ 1a7371d557915e9c5f26a00b26b371724f028458a39db9fe4149b36899b2b8fe 27620 amxa-webmenu-extra_1.0-1ubuntu48.tar.gz
+ 4ac623a2904eb7f091ea5f3d439cb93072523acc0f5c8bd7422d2e29ca434378 17934 amxa-webmenu-extra_1.0-1ubuntu48_all.deb
+Files: 
+ 4d785acdea7848ec335d1986f190d373 634 unknown extra amxa-webmenu-extra_1.0-1ubuntu48.dsc
+ 50473b58beb1ed872cee78fb1669823b 27620 unknown extra amxa-webmenu-extra_1.0-1ubuntu48.tar.gz
+ a04a59b6fa662837e34887cd20faa926 17934 unknown extra amxa-webmenu-extra_1.0-1ubuntu48_all.deb

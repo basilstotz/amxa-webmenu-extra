@@ -6,7 +6,7 @@
     "de": "",
     "fr": "Sujéts"
   },
-  "condition": "env.LANGUAGE==\"fr\"",
+  "condition": "env.LANGUAGE==\"fr\"&&!env.M_CUSTOM",
   "items": [
     {
       "type": "menu",

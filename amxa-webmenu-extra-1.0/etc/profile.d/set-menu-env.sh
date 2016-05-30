@@ -11,7 +11,7 @@ fi
 export PUAVO_USERTYPE=$TYPE
 
 #school
-SCHOOL=$(ls  -l /home/|grep $USER$|xargs|cut -d\  -f4)
+SCHOOL=$(ls -l /home| grep $(ls /home|head -n1)|xargs|cut -d\  -f4)
 export PUAVO_SCHOOL=$SCHOOL
 
 #class
@@ -20,11 +20,12 @@ if test "$TYPE" = "student"; then
   for G in $GOUPS; do
     if echo $G|grep -q "20"; then
       CLASS=$G
+    fi
   done
 else
   CLASS=$TYPE
 fi
-if ! test "$CLASS" = "$TYPE"  then
+if ! test "$CLASS" = "$TYPE";  then
   export PUAVO_CLASS=$CLASS
 fi
 
@@ -41,7 +42,7 @@ case $ORG in
       FIRST=""
       ;;
   basel)
-      LIST="M_PROP M_WEBMENU_EDITOR M_GAMES"
+      LIST="M_PROP M_WEBMENU_EDITOR M_GAMES M_LESEWERKSTATT"
       FIRST="2014A 2014B 2015A 2015B"
       ;;
   ksnuwi)

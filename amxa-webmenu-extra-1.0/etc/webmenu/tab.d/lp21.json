@@ -6,7 +6,7 @@
     "de": "Fächer",
     "fr": ""
   },
-  "condition": "env.LANGUAGE==\"de\"",
+  "condition": "env.LANGUAGE==\"de\"&&!env.M_CUSTOM",
   "items": [
     {
       "type": "menu",
@@ -84,6 +84,10 @@
         {
           "type": "desktop",
           "source": "mymoment"
+        },
+        {
+          "type": "desktop",
+          "source": "libreoffice-writer"
         },
         {
           "type": "desktop",
@@ -305,6 +309,10 @@
         },
         {
           "type": "desktop",
+          "source": "leo"
+        },
+        {
+          "type": "desktop",
           "source": "libreoffice-writer"
         },
         {
@@ -344,6 +352,10 @@
         {
           "type": "desktop",
           "source": "libreoffice-writer"
+        },
+        {
+          "type": "desktop",
+          "source": "leo"
         },
         {
           "type": "desktop",
@@ -641,6 +653,10 @@
       "items": [
         {
           "type": "desktop",
+          "source": "tuxpaint"
+        },
+        {
+          "type": "desktop",
           "source": "pinta"
         },
         {
@@ -710,6 +726,10 @@
         {
           "type": "desktop",
           "source": "stopmotion"
+        },
+        {
+          "type": "desktop",
+          "source": "blender"
         },
         {
           "type": "desktop",
