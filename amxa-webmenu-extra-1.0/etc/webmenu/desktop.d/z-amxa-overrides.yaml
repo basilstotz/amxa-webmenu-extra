@@ -14,6 +14,10 @@ asebastudiothymio:
     en: Programm the Thymio Robot
     de: Programmiere den Thymio Roboter
     fr: Programme le robot Thymio
+asebachallenge:
+  osIcon: /usr/share/icons/hicolor/48x48/apps/asebachallenge.png
+asebaplayground:
+  osIcon: /usr/share/icons/hicolor/48x48/apps/asebaplayground.png
 blindekuh:
     osIcon: /usr/share/pixmaps/blindekuh.png
 blockly:
@@ -159,6 +163,18 @@ thymiovpl:
     en: Thymio - Visual Programming 
     de: Thymio - Visuelle Programmierung
     fr: Thymio - programmation visuelle 
+thymioupgrader:
+  osIcon: /usr/share/icons/hicolor/48x48/apps/thymioupgrader.png
+  name:
+    en: Thymio - Firmware Upgrader
+    de: Thymio - Firmware Upgrader
+    fr: Thymio - Firmware Upgrader 
+thymiownetconfig:
+  osIcon: /usr/share/icons/hicolor/48x48/apps/thymiownetconfig.png
+  name:
+    en: Thymio - Wireless Config 
+    de: Thymio - Wireless Config
+    fr: Thymio - Wireless Config 
 tipp10:
   osIcon: /usr/share/pixmaps/tipp10.png
 toporopa:

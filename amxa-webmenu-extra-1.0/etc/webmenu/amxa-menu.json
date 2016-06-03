@@ -29,16 +29,6 @@
       "items": [
         {
           "type": "desktop",
-          "source": "lehreroffice",
-          "condition": "env.LANGUAGE==\"de\"&&env.PUAVO_USERTYPE!=\"student\"&&env.PUAVO_USERTYPE!=\"guest\""
-        },
-        {
-          "type": "desktop",
-          "source": "webmenu-editor",
-          "condition": "env.PUAVO_USERTYPE!=\"student\"&&env.PUAVO_USERTYPE!=\"guest\"&&env.PUAVO_ORG==\"basel\""
-        },
-        {
-          "type": "desktop",
           "source": "gcalctool"
         },
         {
@@ -108,6 +98,16 @@
         },
         {
           "type": "desktop",
+          "source": "thymionetconfig",
+          "condition": "env.PUAVO_USERTYPE!=\"student\"&&env.PUAVO_USERTYPE!=\"guest\""
+        },
+        {
+          "type": "desktop",
+          "source": "thymioupgrader",
+          "condition": "env.PUAVO_USERTYPE!=\"student\"&&env.PUAVO_USERTYPE!=\"guest\""
+        },
+        {
+          "type": "desktop",
           "source": "simple-scan",
           "inactiveByDeviceType": "thinclient"
         },
@@ -115,6 +115,16 @@
           "type": "desktop",
           "source": "xsane",
           "inactiveByDeviceType": "thinclient"
+        },
+        {
+          "type": "desktop",
+          "source": "lehreroffice",
+          "condition": "env.LANGUAGE==\"de\"&&env.PUAVO_USERTYPE!=\"student\"&&env.PUAVO_USERTYPE!=\"guest\""
+        },
+        {
+          "type": "desktop",
+          "source": "webmenu-editor",
+          "condition": "env.PUAVO_USERTYPE!=\"student\"&&env.PUAVO_USERTYPE!=\"guest\"&&env.PUAVO_ORG==\"basel\""
         }
       ]
     },
@@ -627,6 +637,42 @@
         {
           "type": "desktop",
           "source": "kstars"
+        },
+        {
+          "type": "desktop",
+          "source": "asebachallenge"
+        },
+        {
+          "type": "desktop",
+          "source": "asebaplayground"
+        },
+        {
+          "type": "desktop",
+          "source": "qgis"
+        },
+        {
+          "type": "desktop",
+          "source": "avogadro"
+        },
+        {
+          "type": "desktop",
+          "source": "qgis"
+        },
+        {
+          "type": "desktop",
+          "source": "schulkarte"
+        },
+        {
+          "type": "desktop",
+          "source": "openstreetmaporg"
+        },
+        {
+          "type": "desktop",
+          "source": "grass64"
+        },
+        {
+          "type": "desktop",
+          "source": "kalzium"
         }
       ]
     },

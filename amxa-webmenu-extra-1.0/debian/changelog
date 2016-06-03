@@ -1,3 +1,57 @@
+amxa-webmenu-extra (1.0-1ubuntu57) precise; urgency=low
+
+  * added class menus
+
+ -- root <root@bootserver.amxa.opinys.fi>  Fri, 03 Jun 2016 09:42:15 +0200
+
+amxa-webmenu-extra (1.0-1ubuntu56) precise; urgency=low
+
+  * added lesewerkstatt to anwil
+
+ -- root <root@bootserver.amxa.opinys.fi>  Thu, 02 Jun 2016 10:16:53 +0200
+
+amxa-webmenu-extra (1.0-1ubuntu55) precise; urgency=low
+
+  * typo
+
+ -- root <root@bootserver.amxa.opinys.fi>  Thu, 02 Jun 2016 09:21:34 +0200
+
+amxa-webmenu-extra (1.0-1ubuntu54) precise; urgency=low
+
+  * added kalzium & typo
+
+ -- root <root@bootserver.amxa.opinys.fi>  Thu, 02 Jun 2016 09:16:11 +0200
+
+amxa-webmenu-extra (1.0-1ubuntu53) precise; urgency=low
+
+  * typo
+
+ -- root <root@bootserver.amxa.opinys.fi>  Thu, 02 Jun 2016 09:13:04 +0200
+
+amxa-webmenu-extra (1.0-1ubuntu52) precise; urgency=low
+
+  * added apps to section sciences
+
+ -- root <root@bootserver.amxa.opinys.fi>  Thu, 02 Jun 2016 09:11:25 +0200
+
+amxa-webmenu-extra (1.0-1ubuntu51) precise; urgency=low
+
+  * newbuild
+
+ -- root <root@bootserver.amxa.opinys.fi>  Thu, 02 Jun 2016 08:42:05 +0200
+
+amxa-webmenu-extra (1.0-1ubuntu50) precise; urgency=low
+
+  * added thymioupgrader thymiownetconfig
+
+ -- root <root@bootserver.amxa.opinys.fi>  Thu, 02 Jun 2016 08:40:27 +0200
+
+amxa-webmenu-extra (1.0-1ubuntu49) precise; urgency=low
+
+  * cleanup
+
+ -- root <root@bootserver.amxa.opinys.fi>  Mon, 30 May 2016 11:17:18 +0200
+
 amxa-webmenu-extra (1.0-1ubuntu48) precise; urgency=low
 
   * fixed SCHOOL for guest user

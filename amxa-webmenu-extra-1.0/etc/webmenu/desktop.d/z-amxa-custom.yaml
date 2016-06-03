@@ -104,6 +104,13 @@ duolingo-en-de:
     en: Duolingo: Learn German
   command: chromium-browser --app=https://en.duolingo.com/course/de/en/Learn-German-Online  
   osIcon: /usr/share/pixmaps/duolingo.png
-
+openstreetmaporg:
+  name:
+    en: Openstreetmap
+    de: Openstreetmap
+    fr: Openstreetmap
+    en: Openstreetmap
+  command: chromium-browser --app=https://openstreetmap.org
+  osIcon: /usr/share/pixmaps/openstreetmap.png
 
   
