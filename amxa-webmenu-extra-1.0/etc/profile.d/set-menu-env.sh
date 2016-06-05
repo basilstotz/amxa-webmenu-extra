@@ -57,7 +57,7 @@ fi
 
 #will probably change soon
 
-if test -e /etc/webmenu/env.sh
+if test -e /etc/webmenu/env.sh; then
    . /etc/webmenu/menuenv.sh
 else
   case $ORG in
@@ -77,6 +77,9 @@ else
       LIST="M_PROP M_GAMES"
       FIRST=""
       ;;
+    larippe)
+      LIST="M_GAMES"
+      FIRST=""
     *)
       ;;
   esac

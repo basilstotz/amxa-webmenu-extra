@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Sun, 05 Jun 2016 08:08:09 +0200
+Source: amxa-webmenu-extra
+Binary: amxa-webmenu-extra
+Architecture: source all
+Version: 1.0-1ubuntu58
+Distribution: precise
+Urgency: low
+Maintainer: Basil Stotz <stotz@amxa.ch>
+Changed-By: root <root@bootserver.amxa.opinys.fi>
+Description: 
+ amxa-webmenu-extra - adds amxa menus
+Changes: 
+ amxa-webmenu-extra (1.0-1ubuntu58) precise; urgency=low
+ .
+   * fixedtypo
+Checksums-Sha1: 
+ 278f2415af3ee4f97763834abe71d8d2f20a61b4 634 amxa-webmenu-extra_1.0-1ubuntu58.dsc
+ c24c1f96560d0b865110caae825bffc0be4ff6d4 27927 amxa-webmenu-extra_1.0-1ubuntu58.tar.gz
+ 12f0c55f28694de66cf268c2a2a913344106ceb7 18248 amxa-webmenu-extra_1.0-1ubuntu58_all.deb
+Checksums-Sha256: 
+ a9ba27a1f9ef316df419af28e0a49272adac0f7b83f22c2e0cd8597361eed633 634 amxa-webmenu-extra_1.0-1ubuntu58.dsc
+ 4cbf987e2c02bc460a62fe1e85f6c450a2e1adba030cc1170dddf15c9f7047ec 27927 amxa-webmenu-extra_1.0-1ubuntu58.tar.gz
+ 339721ecb6ee7bd8b9182154409162697b1c266be7d9b31f0e7e028ff8808ede 18248 amxa-webmenu-extra_1.0-1ubuntu58_all.deb
+Files: 
+ 88683f656825140e0b5333d14a0da09a 634 unknown extra amxa-webmenu-extra_1.0-1ubuntu58.dsc
+ 82d25c42645daa8168de1d0598ff185e 27927 unknown extra amxa-webmenu-extra_1.0-1ubuntu58.tar.gz
+ 6a85b6e275981099e83e2a5aefc21f78 18248 unknown extra amxa-webmenu-extra_1.0-1ubuntu58_all.deb

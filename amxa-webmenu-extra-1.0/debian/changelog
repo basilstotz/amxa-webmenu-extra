@@ -1,3 +1,9 @@
+amxa-webmenu-extra (1.0-1ubuntu58) precise; urgency=low
+
+  * fixedtypo
+
+ -- root <root@bootserver.amxa.opinys.fi>  Sun, 05 Jun 2016 08:08:09 +0200
+
 amxa-webmenu-extra (1.0-1ubuntu57) precise; urgency=low
 
   * added class menus
