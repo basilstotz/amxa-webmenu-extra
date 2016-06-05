@@ -80,7 +80,10 @@ else
     larippe)
       LIST="M_GAMES"
       FIRST=""
+      ;;
     *)
+      LIST="M_GAMES"
+      FIRST=""
       ;;
   esac
 
