@@ -1,3 +1,9 @@
+amxa-webmenu-extra (1.0-1ubuntu59) precise; urgency=low
+
+  * added indiv. proprietary apps
+
+ -- root <root@bootserver.amxa.opinys.fi>  Sun, 05 Jun 2016 09:13:01 +0200
+
 amxa-webmenu-extra (1.0-1ubuntu58) precise; urgency=low
 
   * fixedtypo

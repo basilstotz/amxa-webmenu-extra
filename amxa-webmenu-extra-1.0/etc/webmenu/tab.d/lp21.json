@@ -45,12 +45,12 @@
         {
           "type": "desktop",
           "source": "leseschlau",
-          "condition": "env.M_PROP"
+          "condition": "env.M_PROP||env.M_LESESCHLAU"
         },
         {
           "type": "desktop",
           "source": "luegeloselaese",
-          "condition": "env.M_PROP"
+          "condition": "env.M_PROP||env.M_LUEGELOSELAESE"
         },
         {
           "type": "desktop",
@@ -117,47 +117,47 @@
         {
           "type": "desktop",
           "source": "blitzrechnen",
-          "condition": "env.M_PROP"
+          "condition": "env.M_PROP||env.M_BLITZRECHNEN"
         },
         {
           "type": "desktop",
           "source": "rechentraining",
-          "condition": "env.M_PROP"
+          "condition": "env.M_PROP||env.M_RECHENTRAINING"
         },
         {
           "type": "desktop",
           "source": "rechentraining6",
-          "condition": "env.M_PROP"
+          "condition": "env.M_PROP||env.M_RECHENTRAINING"
         },
         {
           "type": "desktop",
           "source": "logisch1",
-          "condition": "env.M_PROP"
+          "condition": "env.M_PROP||env.M_LOGISCH"
         },
         {
           "type": "desktop",
           "source": "logisch2",
-          "condition": "env.M_PROP"
+          "condition": "env.M_PROP||env.M_LOGISCH"
         },
         {
           "type": "desktop",
           "source": "logisch3",
-          "condition": "env.M_PROP"
+          "condition": "env.M_PROP||env.M_LOGISCH"
         },
         {
           "type": "desktop",
           "source": "logisch4",
-          "condition": "env.M_PROP"
+          "condition": "env.M_PROP||env.M_LOGISCH"
         },
         {
           "type": "desktop",
           "source": "logisch5",
-          "condition": "env.M_PROP"
+          "condition": "env.M_PROP||env.M_LOGISCH"
         },
         {
           "type": "desktop",
           "source": "logisch6",
-          "condition": "env.M_PROP"
+          "condition": "env.M_PROP||env.M_LOGISCH"
         },
 
         {
@@ -248,52 +248,52 @@
         {
           "type": "desktop",
           "source": "millefeuilles3.1",
-          "condition": "env.M_PROP"
+          "condition": "env.M_PROP||env.M_MILLEFEUILLES"
         },
         {
           "type": "desktop",
           "source": "millefeuilles3.2",
-          "condition": "env.M_PROP"
+          "condition": "env.M_PROP||env.M_MILLEFEUILLES"
         },
         {
           "type": "desktop",
-          "source": "millefeuilles3.3",
+          "source": "millefeuilles3.3||env.M_MILLEFEUILLES",
           "condition": "env.M_PROP"
         },
         {
           "type": "desktop",
           "source": "millefeuilles4.1",
-          "condition": "env.M_PROP"
+          "condition": "env.M_PROP||env.M_MILLEFEUILLES"
         },
         {
           "type": "desktop",
           "source": "millefeuilles4.2",
-          "condition": "env.M_PROP"
+          "condition": "env.M_PROP||env.M_MILLEFEUILLES"
         },
         {
           "type": "desktop",
           "source": "millefeuilles4.3",
-          "condition": "env.M_PROP"
+          "condition": "env.M_PROP||env.M_MILLEFEUILLES"
         },
         {
           "type": "desktop",
           "source": "millefeuilles5.1",
-          "condition": "env.M_PROP"
+          "condition": "env.M_PROP||env.M_MILLEFEUILLES"
         },
         {
           "type": "desktop",
           "source": "millefeuilles5.2",
-          "condition": "env.M_PROP"
+          "condition": "env.M_PROP||env.M_MILLEFEUILLES"
         },
         {
           "type": "desktop",
           "source": "millefeuilles6.1",
-          "condition": "env.M_PROP"
+          "condition": "env.M_PROP||env.M_MILLEFEUILLES"
         },
         {
           "type": "desktop",
           "source": "millefeuilles6.2",
-          "condition": "env.M_PROP"
+          "condition": "env.M_PROP||env.M_MILLEFEUILLES"
         },
         {
           "type": "desktop",
@@ -334,12 +334,12 @@
         {
           "type": "desktop",
           "source": "newworld1",
-          "condition": "env.M_PROP"
+          "condition": "env.M_PROP||env.M_NEWWORLD"
         },
         {
           "type": "desktop",
           "source": "newworld2",
-          "condition": "env.M_PROP"
+          "condition": "env.M_PROP||env.M_NEWWORLD"
         },
         {
           "type": "desktop",
