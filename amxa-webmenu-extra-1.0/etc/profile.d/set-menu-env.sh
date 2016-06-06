@@ -8,7 +8,7 @@ export PUAVO_ORG="$ORG"
 
 #usertype
 if test -n "$PUAVO_SESSION_PATH" -a -e "$PUAVO_SESSION_PATH"; then
-  TYPE=$(jq .user.user_type $PUAVO_SESSION_PATH|sed 's/"//g')
+  USERTYPE=$(jq .user.user_type $PUAVO_SESSION_PATH|sed 's/"//g')
 else
   USERTYPE="guest"
 fi

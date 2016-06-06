@@ -1,3 +1,9 @@
+amxa-webmenu-extra (1.0-1ubuntu61) precise; urgency=low
+
+  * fixed set-menu-env.sh
+
+ -- root <root@bootserver.amxa.opinys.fi>  Mon, 06 Jun 2016 10:19:37 +0200
+
 amxa-webmenu-extra (1.0-1ubuntu60) precise; urgency=low
 
   * typo
