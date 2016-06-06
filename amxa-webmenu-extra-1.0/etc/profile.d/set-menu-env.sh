@@ -15,7 +15,12 @@ fi
 export PUAVO_USERTYPE=$USERTYPE
 
 #school
-SCHOOL=$(ls -l /home| grep $(ls /home|head -n1)|xargs|cut -d\  -f4)
+if test "$USERTYPE" = "guest"; then
+  N=$(ls /home|head -n1)
+else
+  N=$USER
+fi
+SCHOOL=$(ls -l /home | grep $N|xargs|cut -d\  -f4)
 export PUAVO_SCHOOL="$SCHOOL"
 
 #class

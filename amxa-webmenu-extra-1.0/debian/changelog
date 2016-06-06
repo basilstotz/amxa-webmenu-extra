@@ -1,3 +1,9 @@
+amxa-webmenu-extra (1.0-1ubuntu62) precise; urgency=low
+
+  * better schooldetection
+
+ -- root <root@bootserver.amxa.opinys.fi>  Mon, 06 Jun 2016 14:57:59 +0200
+
 amxa-webmenu-extra (1.0-1ubuntu61) precise; urgency=low
 
   * fixed set-menu-env.sh
