@@ -4,7 +4,7 @@
     "en": "",
     "fi": "",
     "de": "",
-    "fr": "Sujéts"
+    "fr": "Sujets"
   },
   "condition": "env.LANGUAGE==\"fr\"&&!env.M_CUSTOM",
   "items": [
@@ -399,7 +399,7 @@
         "en": "",
         "fi": "",
         "de": "",
-        "fr": "Activités créatrice"
+        "fr": "Activités créatrices"
       },
       "osIcon": "/usr/share/icons/Neu/128x128/categories/kcontrol.png",
       "items": [
