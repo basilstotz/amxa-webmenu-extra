@@ -44,5 +44,7 @@ millefeuilles6.2:
   osIcon: /usr/share/pixmaps/mf62.png
 newworld1:
   osIcon: /usr/share/pixmaps/newworld1.png
+  command: nw /usr/share/prop/newworld/1/.
 newworld2:
+  command: nw /usr/share/prop/newworld/2/.
   osIcon: /usr/share/pixmaps/newworld2.png
