@@ -72,7 +72,7 @@ else
       ;;
     basel)
       LIST="M_PROP M_WEBMENU_EDITOR M_GAMES M_LESEWERKSTATT"
-      FIRST="2014A 2014B 2015A 2015B"
+      FIRST=""
       ;;
     ksnuwi)
       LIST="M_PROP M_GAMES"
