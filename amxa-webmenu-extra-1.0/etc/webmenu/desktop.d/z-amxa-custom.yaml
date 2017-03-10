@@ -112,5 +112,9 @@ openstreetmaporg:
     en: Openstreetmap
   command: chromium-browser --app=https://openstreetmap.org
   osIcon: /usr/share/pixmaps/openstreetmap.png
-
+audiyou:
+  name:
+    de: Audioyou
+  command: chromium-browser --app=http://www.audiyou.de/
+  osIcon: /usr/share/pixmaps/audiyou.png
   

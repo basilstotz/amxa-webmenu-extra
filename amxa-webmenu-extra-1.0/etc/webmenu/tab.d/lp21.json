@@ -605,6 +605,10 @@
         },
         {
           "type": "desktop",
+          "source": "audiyou"
+        },
+        {
+          "type": "desktop",
           "source": "solfege"
         },
         {
@@ -702,6 +706,10 @@
         {
           "type": "desktop",
           "source": "audacity"
+        },
+        {
+          "type": "desktop",
+          "source": "audiyou"
         },
         {
           "type": "desktop",
