@@ -682,7 +682,7 @@
     },
     {
       "type": "menu",
-      "condition": "emv.M_GAMES",
+      "condition": "env.M_GAMES",
       "name": {
         "en": "Games",
 	"fr": "Jeux",

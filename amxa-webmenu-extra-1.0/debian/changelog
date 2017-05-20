@@ -1,3 +1,15 @@
+amxa-webmenu-extra (1.0-1ubuntu67) UNRELEASED; urgency=medium
+
+  * fixed lp21.json millefeuiles3.3
+
+ -- root <root@basil-lap.basel.opinsys.fi>  Sun, 14 May 2017 08:30:25 +0200
+
+amxa-webmenu-extra (1.0-1ubuntu66) precise; urgency=low
+
+  * added webapp: www.audio.de
+
+ -- root <root@bootserver.amxa.opinys.fi>  Fri, 10 Mar 2017 13:26:14 +0100
+
 amxa-webmenu-extra (1.0-1ubuntu65) precise; urgency=low
 
   * added activ-inspire

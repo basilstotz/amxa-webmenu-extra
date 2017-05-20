@@ -257,8 +257,8 @@
         },
         {
           "type": "desktop",
-          "source": "millefeuilles3.3||env.M_MILLEFEUILLES",
-          "condition": "env.M_PROP"
+          "source": "millefeuilles3.3",
+          "condition": "env.M_PROP||env.M_MILLEFEUILLES"
         },
         {
           "type": "desktop",
@@ -298,6 +298,10 @@
         {
           "type": "desktop",
           "source": "fichier"
+        },
+        {
+          "type": "desktop",
+          "source": "mfonline"
         },
         {
           "type": "desktop",

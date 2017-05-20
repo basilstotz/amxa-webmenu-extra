@@ -17,9 +17,27 @@ set -e
 case "$1" in
     install|upgrade)
       for N in $(find /etc/webmenu/tab.d/ -name  \*yaml); do
-      #for N in $(ls /etc/webmenu/tab.d/*yaml); do
+        #for N in $(ls /etc/webmenu/tab.d/*yaml); do
         mv $N $N.opinsys
       done
+
+      SRC="/opt/libreoffice5.2/share/xdg"
+      DST="/usr/share/applications"
+      LST="base calc draw math writer impress startcenter"
+
+      for N in $LST; do
+        S="$SRC/$N.desktop"
+        D="$DST/libreoffice-$N.desktop"
+        if test -h $D; then
+          rm $D
+        fi
+        if test -e $S; then
+          ln -s $S $D 
+        fi
+      done
+
+
+
     ;;
 
     abort-upgrade)
