@@ -782,6 +782,10 @@
         },
         {
           "type": "desktop",
+          "source": "avidemux"
+        },
+        {
+          "type": "desktop",
           "source": "ghb",
           "inactiveByDeviceType": "thinclient"
         },

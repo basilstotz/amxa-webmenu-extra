@@ -120,3 +120,6 @@ openboard:
   name: OpenBoard
   command: /opt/openboard/OpenBoard
   osIcon: /opt/openboard/OpenBoard.png
+gnome-terminal:
+  name: gnome-terminal
+  command: gnome-terminal
