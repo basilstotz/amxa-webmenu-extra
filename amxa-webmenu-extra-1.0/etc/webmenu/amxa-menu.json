@@ -28,6 +28,10 @@
       "osIcon": "applications-accessories",
       "items": [
         {
+	  "type": "desktop",
+	   "source": "openboard"
+        },
+        {
           "type": "desktop",
           "source": "activsoftware"
         },

@@ -1,8 +1,13 @@
-amxa-webmenu-extra (1.0-1ubuntu67) UNRELEASED; urgency=medium
+amxa-webmenu-extra (1.0-1ubuntu69) UNRELEASED; urgency=medium
 
+  [ root ]
   * fixed lp21.json millefeuiles3.3
 
- -- root <root@basil-lap.basel.opinsys.fi>  Sun, 14 May 2017 08:30:25 +0200
+  [ Stotz Basil ]
+  * added millefeuilles online;added symlinks for libreoffice
+  * added openboard
+
+ -- Stotz Basil <stotz.basil@basil-lap.basel.opinsys.fi>  Sat, 08 Jul 2017 10:53:41 +0200
 
 amxa-webmenu-extra (1.0-1ubuntu66) precise; urgency=low
 

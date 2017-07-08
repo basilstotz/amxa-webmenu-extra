@@ -1,0 +1,33 @@
+Format: 1.8
+Date: Sat, 08 Jul 2017 10:53:41 +0200
+Source: amxa-webmenu-extra
+Binary: amxa-webmenu-extra
+Architecture: source all
+Version: 1.0-1ubuntu69
+Distribution: UNRELEASED
+Urgency: medium
+Maintainer: Basil Stotz <stotz@amxa.ch>
+Changed-By: Stotz Basil <stotz.basil@basil-lap.basel.opinsys.fi>
+Description: 
+ amxa-webmenu-extra - adds amxa menus
+Changes: 
+ amxa-webmenu-extra (1.0-1ubuntu69) UNRELEASED; urgency=medium
+ .
+   [ root ]
+   * fixed lp21.json millefeuiles3.3
+ .
+   [ Stotz Basil ]
+   * added millefeuilles online;added symlinks for libreoffice
+   * added openboard
+Checksums-Sha1: 
+ a347e45839dd131348b45f44938dbc8eab1abbff 634 amxa-webmenu-extra_1.0-1ubuntu69.dsc
+ d7d00e802142060b869330f4fc3efb2656c0fccf 28799 amxa-webmenu-extra_1.0-1ubuntu69.tar.gz
+ c9fedc3c3ff8ab5ea8a7390277b91848a0731f83 16852 amxa-webmenu-extra_1.0-1ubuntu69_all.deb
+Checksums-Sha256: 
+ 2f2f4e2fc08c19fb8ba1a842b716d56fd9d3fb7d887fe42c401a4bc8a44a8d35 634 amxa-webmenu-extra_1.0-1ubuntu69.dsc
+ e21720a6a9cef6613a1b62e4d0fe5fd8a89e289480ee1b007c16a6226b5b5b95 28799 amxa-webmenu-extra_1.0-1ubuntu69.tar.gz
+ 5195c4352bd7b91cdf788790f1169b6080631ff853d9edee4b62e929341f97a3 16852 amxa-webmenu-extra_1.0-1ubuntu69_all.deb
+Files: 
+ 8cc162d7663b96e47a9253b55d141f60 634 unknown extra amxa-webmenu-extra_1.0-1ubuntu69.dsc
+ 81a3c9b23b9d7a6f330d99087149192b 28799 unknown extra amxa-webmenu-extra_1.0-1ubuntu69.tar.gz
+ edc8b9f793a8093e4e486e3aa44ef3dd 16852 unknown extra amxa-webmenu-extra_1.0-1ubuntu69_all.deb
