@@ -106,6 +106,10 @@
         },
         {
           "type": "desktop",
+          "source": "simplescreenrecorder"
+        },
+        {
+          "type": "desktop",
           "source": "thymionetconfig",
           "condition": "env.PUAVO_USERTYPE!=\"student\"&&env.PUAVO_USERTYPE!=\"guest\""
         },
@@ -488,6 +492,7 @@
           "inactiveByDeviceType": "thinclient"
         },
         {
+          "condition": "5==7",
           "type": "desktop",
           "source": "kstars"
         },
@@ -575,6 +580,10 @@
         },
         {
           "type": "desktop",
+          "source": "texmaker"
+        },
+        {
+          "type": "desktop",
           "source": "youtube-dl"
         },
         {
@@ -643,6 +652,7 @@
           "inactiveByDeviceType": "thinclient"
         },
         {
+          "condition": "5==7",
           "type": "desktop",
           "source": "kstars"
         },
