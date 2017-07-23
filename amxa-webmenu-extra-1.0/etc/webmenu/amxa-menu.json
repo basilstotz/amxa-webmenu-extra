@@ -41,6 +41,10 @@
         },
         {
           "type": "desktop",
+          "source": "kodi"
+        },
+        {
+          "type": "desktop",
           "source": "gedit"
         },
         {
@@ -103,10 +107,6 @@
         {
           "type": "desktop",
           "source": "gtk-recordmydesktop"
-        },
-        {
-          "type": "desktop",
-          "source": "simplescreenrecorder"
         },
         {
           "type": "desktop",
@@ -492,7 +492,6 @@
           "inactiveByDeviceType": "thinclient"
         },
         {
-          "condition": "5==7",
           "type": "desktop",
           "source": "kstars"
         },
@@ -580,10 +579,6 @@
         },
         {
           "type": "desktop",
-          "source": "texmaker"
-        },
-        {
-          "type": "desktop",
           "source": "youtube-dl"
         },
         {
@@ -652,7 +647,6 @@
           "inactiveByDeviceType": "thinclient"
         },
         {
-          "condition": "5==7",
           "type": "desktop",
           "source": "kstars"
         },
