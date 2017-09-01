@@ -1,0 +1,39 @@
+Format: 1.8
+Date: Fri, 01 Sep 2017 15:12:17 +0200
+Source: amxa-webmenu-extra
+Binary: amxa-webmenu-extra
+Architecture: source all
+Version: 1.0-1ubuntu71.1
+Distribution: UNRELEASED
+Urgency: medium
+Maintainer: Basil Stotz <stotz@amxa.ch>
+Changed-By: Stotz Basil <stotz.basil@stretch-Ltu8nqiV>
+Description:
+ amxa-webmenu-extra - adds amxa menus
+Changes:
+ amxa-webmenu-extra (1.0-1ubuntu71.1) UNRELEASED; urgency=medium
+ .
+   [ root ]
+   * fixed lp21.json millefeuiles3.3
+ .
+   [ Stotz Basil ]
+   * added millefeuilles online;added symlinks for libreoffice
+   * added openboard
+   * fixed webmenu
+   * removed kinderweltmusik
+   * fixed icon Französisch
+Checksums-Sha1:
+ 2f3c93822ceeb2d8137fccb460ef4fc1c7cd697d 647 amxa-webmenu-extra_1.0-1ubuntu71.1.dsc
+ 1c64e12f840ad15f7d2afcc5847ad9abda5a403b 28312 amxa-webmenu-extra_1.0-1ubuntu71.1.tar.gz
+ 3305823fb942c91d79865a3b1d1abae85fd67ca7 16838 amxa-webmenu-extra_1.0-1ubuntu71.1_all.deb
+ a988eba5b1866e3d02f6d7480d4159174850bda1 4951 amxa-webmenu-extra_1.0-1ubuntu71.1_amd64.buildinfo
+Checksums-Sha256:
+ f32902e1660099708f6325b844ddb26e0b9fecb375dc288183c3372f65e261b4 647 amxa-webmenu-extra_1.0-1ubuntu71.1.dsc
+ 82bade099957c1781873d90f99442db14f54d7dc2f268a44b031080e7d95cac3 28312 amxa-webmenu-extra_1.0-1ubuntu71.1.tar.gz
+ 72c617ac1053f259803422d53de7b70c178bed46cf4ce46721e0088768d83b67 16838 amxa-webmenu-extra_1.0-1ubuntu71.1_all.deb
+ 4d34309a7229edc5a1da6d8f890cf33ecbc018cf2d2c033877188bbc3d5ee09f 4951 amxa-webmenu-extra_1.0-1ubuntu71.1_amd64.buildinfo
+Files:
+ 300b4a0f16133eba74c64fec854b231f 647 unknown extra amxa-webmenu-extra_1.0-1ubuntu71.1.dsc
+ 0f9f7db128c7e6318af9c2dc1d247d50 28312 unknown extra amxa-webmenu-extra_1.0-1ubuntu71.1.tar.gz
+ 26acd4e5369f76b6e2f58722b8cda380 16838 unknown extra amxa-webmenu-extra_1.0-1ubuntu71.1_all.deb
+ ab7b88e17bd07e6164b2015a6b5ab7ab 4951 unknown extra amxa-webmenu-extra_1.0-1ubuntu71.1_amd64.buildinfo

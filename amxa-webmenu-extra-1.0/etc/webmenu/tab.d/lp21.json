@@ -243,7 +243,7 @@
         "de": "Französisch",
         "fr": ""
       },
-      "osIcon": "/usr/share/icons/oxygen/64x64/categories/base/applications-education-language.png",
+      "osIcon": "/usr/share/icons/oxygen/base/64x64/categories/applications-education-language.png",
       "items": [
         {
           "type": "desktop",
