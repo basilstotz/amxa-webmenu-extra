@@ -37,6 +37,10 @@
         },
         {
           "type": "desktop",
+          "source": "vmarkerutility"
+        },
+        {
+          "type": "desktop",
           "source": "gcalctool"
         },
         {
