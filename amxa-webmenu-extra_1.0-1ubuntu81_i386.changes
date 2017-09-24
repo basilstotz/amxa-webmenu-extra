@@ -1,0 +1,46 @@
+Format: 1.8
+Date: Sun, 24 Sep 2017 20:45:23 +0200
+Source: amxa-webmenu-extra
+Binary: amxa-webmenu-extra
+Architecture: source all
+Version: 1.0-1ubuntu81
+Distribution: UNRELEASED
+Urgency: medium
+Maintainer: Basil Stotz <stotz@amxa.ch>
+Changed-By: Stotz Basil <stotz.basil@basil-lap.basel.opinsys.fi>
+Description: 
+ amxa-webmenu-extra - adds amxa menus
+Changes: 
+ amxa-webmenu-extra (1.0-1ubuntu81) UNRELEASED; urgency=medium
+ .
+   [ root ]
+   * fixed lp21.json millefeuiles3.3
+ .
+   [ Stotz Basil ]
+   * added millefeuilles online;added symlinks for libreoffice
+   * added openboard
+   * fixed webmenu
+   * removed kinderweltmusik
+   * fixed icon Französisch
+   * again
+   * again
+   * added vmarkerutility
+   * added whiteboardmenu and classroomscreen
+   * fixed classroomsrcreen
+   * again
+   * again
+   * fixed syntax error
+   * again
+   * added activesoftware-nc, libreoffice-presenter and impessive to whiteboard-menu
+Checksums-Sha1: 
+ da4fbc1d38c2179d4330b460167ead4fc96d8be0 634 amxa-webmenu-extra_1.0-1ubuntu81.dsc
+ 25293aa60acafa5116673eedef174d9f30bc4233 28833 amxa-webmenu-extra_1.0-1ubuntu81.tar.gz
+ e04058b9040feba3cc9188a6a4e0e8cd805e151c 17056 amxa-webmenu-extra_1.0-1ubuntu81_all.deb
+Checksums-Sha256: 
+ ed7d1d71f2893ed09ff771f80560b0f73600c0734e7e7202551d18f2695149b4 634 amxa-webmenu-extra_1.0-1ubuntu81.dsc
+ 73d4bd2e08148258990ce1f2b2cc874580d6349d2c748cc338404a81781e7376 28833 amxa-webmenu-extra_1.0-1ubuntu81.tar.gz
+ 83519c50c7e25cccf2d1ef98aa016e848b97c19b301b73c69359c13d3b3d6f2c 17056 amxa-webmenu-extra_1.0-1ubuntu81_all.deb
+Files: 
+ dd9c54e39469b23aa70018999b52a94b 634 unknown extra amxa-webmenu-extra_1.0-1ubuntu81.dsc
+ 5a0663c6717346dc810822e76494c687 28833 unknown extra amxa-webmenu-extra_1.0-1ubuntu81.tar.gz
+ 49a32345482d20eda87f7ddc43e37857 17056 unknown extra amxa-webmenu-extra_1.0-1ubuntu81_all.deb

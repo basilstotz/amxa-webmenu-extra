@@ -1,4 +1,4 @@
-amxa-webmenu-extra (1.0-1ubuntu74) UNRELEASED; urgency=medium
+amxa-webmenu-extra (1.0-1ubuntu81) UNRELEASED; urgency=medium
 
   [ root ]
   * fixed lp21.json millefeuiles3.3
@@ -12,12 +12,19 @@ amxa-webmenu-extra (1.0-1ubuntu74) UNRELEASED; urgency=medium
   * again
   * again
   * added vmarkerutility
+  * added whiteboardmenu and classroomscreen
+  * fixed classroomsrcreen
+  * again
+  * again 
+  * fixed syntax error
+  * again
+  * added activesoftware-nc, libreoffice-presenter and impessive to whiteboard-menu 
 
- -- Stotz Basil <stotz.basil@basil-lap.basel.opinsys.fi>  Sat, 16 Sep 2017 09:19:12 +0200
+ -- Stotz Basil <stotz.basil@basil-lap.basel.opinsys.fi>  Sun, 24 Sep 2017 20:45:23 +0200
 
 amxa-webmenu-extra (1.0-1ubuntu66) precise; urgency=low
 
-  * added webapp: www.audio.de
+  * added webapp: www.audiou.de
 
  -- root <root@bootserver.amxa.opinys.fi>  Fri, 10 Mar 2017 13:26:14 +0100
 

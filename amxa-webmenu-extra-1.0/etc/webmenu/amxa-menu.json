@@ -28,18 +28,6 @@
       "osIcon": "applications-accessories",
       "items": [
         {
-	  "type": "desktop",
-	   "source": "openboard"
-        },
-        {
-          "type": "desktop",
-          "source": "activsoftware"
-        },
-        {
-          "type": "desktop",
-          "source": "vmarkerutility"
-        },
-        {
           "type": "desktop",
           "source": "gcalctool"
         },
@@ -54,10 +42,6 @@
         {
           "type": "desktop",
           "source": "gucharmap"
-        },
-        {
-          "type": "desktop",
-          "source": "onboard"
         },
         {
           "type": "desktop",
@@ -144,6 +128,68 @@
         }
       ]
     },
+    {
+      "type": "menu",
+      "id": "whiteboard",
+      "name": {
+        "en": "Whiteboard",
+        "fi": "Whiteboard",
+	"fr": "Whiteboard",
+        "sv": "Whiteboard",
+        "de": "Whiteboard"
+      },
+      "description": {
+        "en": "Whiteboard",
+        "fi": "Whiteboard",
+	"fr": "Whiteboard",
+        "sv": "Whiteboard",
+        "de": "Whiteboard"
+      },
+      "osIconPath": "/usr/share/icons/oxygen/base/64x64/devices/video-projector.png",
+      "items": [
+        {
+	  "type": "desktop",
+	   "source": "openboard"
+        },
+        {
+          "type": "desktop",
+          "source": "activsoftware"
+        },
+        {
+          "type": "desktop",
+          "source": "activsoftware-nc"
+        },
+        {
+          "type": "desktop",
+          "source": "vmarkerutility"
+        },
+        { 
+	   "type": "desktop",
+           "source": "classroomscreen",
+           "osIconPath": "/usr/share/pixmaps/classroomscreen.png"
+        },
+        { 
+	   "type": "desktop",
+           "source": "pahvi"
+        },
+        { 
+	   "type": "desktop",
+           "source": "walma"
+        },
+        {
+          "type": "desktop",
+          "source": "onboard"
+        },
+        {
+          "type": "desktop",
+          "source": "libreoffice-impress"
+        },
+        {
+          "type": "desktop",
+          "source": "impressive"
+        }
+      ]
+    }, 
     {
       "type": "menu",
       "name": {
