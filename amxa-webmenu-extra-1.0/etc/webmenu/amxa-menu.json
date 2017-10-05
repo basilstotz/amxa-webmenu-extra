@@ -186,6 +186,10 @@
         },
         {
           "type": "desktop",
+          "source": "obs"
+        },
+        {
+          "type": "desktop",
           "source": "impressive"
         }
       ]

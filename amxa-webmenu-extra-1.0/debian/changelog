@@ -1,4 +1,4 @@
-amxa-webmenu-extra (1.0-1ubuntu81) UNRELEASED; urgency=medium
+amxa-webmenu-extra (1.0-1ubuntu82) UNRELEASED; urgency=medium
 
   [ root ]
   * fixed lp21.json millefeuiles3.3
@@ -19,8 +19,9 @@ amxa-webmenu-extra (1.0-1ubuntu81) UNRELEASED; urgency=medium
   * fixed syntax error
   * again
   * added activesoftware-nc, libreoffice-presenter and impessive to whiteboard-menu 
+  * added obs-studio to menu 
 
- -- Stotz Basil <stotz.basil@basil-lap.basel.opinsys.fi>  Sun, 24 Sep 2017 20:45:23 +0200
+ -- Stotz Basil <stotz.basil@basil-lap.basel.opinsys.fi>  Thu, 05 Oct 2017 18:56:57 +0200
 
 amxa-webmenu-extra (1.0-1ubuntu66) precise; urgency=low
 
