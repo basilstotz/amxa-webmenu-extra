@@ -78,23 +78,11 @@
         },
         {
           "type": "desktop",
-          "source": "gnome-screenshot"
-        },
-        {
-          "type": "desktop",
           "source": "xosview"
         },
         {
           "type": "desktop",
-          "source": "gtk-recordmydesktop"
-        },
-        {
-          "type": "desktop",
           "source": "unison"
-        },
-        {
-          "type": "desktop",
-          "source": "gtk-recordmydesktop"
         },
         {
           "type": "desktop",
@@ -161,7 +149,8 @@
         },
         {
           "type": "desktop",
-          "source": "vmarkerutility"
+          "source": "vmarkerutility",
+          "osIconPath": "/usr/share/pixmaps/vmarker_icon.png"
         },
         { 
 	   "type": "desktop",
@@ -186,7 +175,16 @@
         },
         {
           "type": "desktop",
-          "source": "obs"
+          "source": "obs",
+          "osIconPath": "/usr/share/icons/hicolor/256x256/apps/obs.png"	    
+        },
+        {
+          "type": "desktop",
+          "source": "gtk-recordmydesktop"
+        },
+        {
+          "type": "desktop",
+          "source": "gnome-screenshot"
         },
         {
           "type": "desktop",
