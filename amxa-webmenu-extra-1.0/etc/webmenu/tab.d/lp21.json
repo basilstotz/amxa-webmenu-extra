@@ -63,6 +63,11 @@
         },
         {
           "type": "desktop",
+          "osIcon": "/usr/share/pixmaps/helles-koepfchen.png",
+          "source": "helles-koepfchen"
+        },
+        {
+          "type": "desktop",
           "source": "pahvi"
         },
         {
