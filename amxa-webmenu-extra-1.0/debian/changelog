@@ -1,4 +1,4 @@
-amxa-webmenu-extra (1.0-1ubuntu84) UNRELEASED; urgency=medium
+amxa-webmenu-extra (1.0-1ubuntu85) UNRELEASED; urgency=medium
 
   [ root ]
   * fixed lp21.json millefeuiles3.3
@@ -22,8 +22,9 @@ amxa-webmenu-extra (1.0-1ubuntu84) UNRELEASED; urgency=medium
   * added obs-studio to menu 
   * new build
   * move screen-shot/cast to whiteboard-menu
+  * add dybuster
 
- -- Stotz Basil <stotz.basil@basil-lap.basel.opinsys.fi>  Wed, 11 Oct 2017 10:44:07 +0200
+ -- Stotz Basil <stotz.basil@basil-lap.basel.opinsys.fi>  Fri, 27 Oct 2017 13:34:18 +0200
 
 amxa-webmenu-extra (1.0-1ubuntu66) precise; urgency=low
 

@@ -87,6 +87,11 @@
         },
         {
           "type": "desktop",
+          "osIcon": "/usr/share/pixmaps/dybuster.png",
+          "source": "dybuster-ortho"
+        },
+        {
+          "type": "desktop",
           "source": "libreoffice-writer"
         },
         {
@@ -207,6 +212,11 @@
         {
           "type": "desktop",
           "source": "sikore"
+        },
+        {
+          "type": "desktop",
+          "osIcon": "/usr/share/pixmaps/dybuster.png",
+          "source": "dybuster-calc"
         },
         {
           "type": "desktop",
