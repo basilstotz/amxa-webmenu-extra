@@ -1,4 +1,4 @@
-amxa-webmenu-extra (1.0-1ubuntu86) UNRELEASED; urgency=medium
+amxa-webmenu-extra (1.0-1ubuntu87) UNRELEASED; urgency=medium
 
   [ root ]
   * fixed lp21.json millefeuiles3.3
@@ -24,8 +24,9 @@ amxa-webmenu-extra (1.0-1ubuntu86) UNRELEASED; urgency=medium
   * move screen-shot/cast to whiteboard-menu
   * add dybuster
   * add helles-köpfchen.de
+  * add simple-screemrecoder to whiteboard-menu
 
- -- Stotz Basil <stotz.basil@basil-lap.basel.opinsys.fi>  Fri, 27 Oct 2017 16:08:16 +0200
+ -- Stotz Basil <stotz.basil@basil-lap.basel.opinsys.fi>  Wed, 01 Nov 2017 14:54:45 +0100
 
 amxa-webmenu-extra (1.0-1ubuntu66) precise; urgency=low
 

@@ -1,0 +1,52 @@
+Format: 1.8
+Date: Wed, 01 Nov 2017 14:54:45 +0100
+Source: amxa-webmenu-extra
+Binary: amxa-webmenu-extra
+Architecture: source all
+Version: 1.0-1ubuntu87
+Distribution: UNRELEASED
+Urgency: medium
+Maintainer: Basil Stotz <stotz@amxa.ch>
+Changed-By: Stotz Basil <stotz.basil@basil-lap.basel.opinsys.fi>
+Description: 
+ amxa-webmenu-extra - adds amxa menus
+Changes: 
+ amxa-webmenu-extra (1.0-1ubuntu87) UNRELEASED; urgency=medium
+ .
+   [ root ]
+   * fixed lp21.json millefeuiles3.3
+ .
+   [ Stotz Basil ]
+   * added millefeuilles online;added symlinks for libreoffice
+   * added openboard
+   * fixed webmenu
+   * removed kinderweltmusik
+   * fixed icon Französisch
+   * again
+   * again
+   * added vmarkerutility
+   * added whiteboardmenu and classroomscreen
+   * fixed classroomsrcreen
+   * again
+   * again
+   * fixed syntax error
+   * again
+   * added activesoftware-nc, libreoffice-presenter and impessive to whiteboard-menu
+   * added obs-studio to menu
+   * new build
+   * move screen-shot/cast to whiteboard-menu
+   * add dybuster
+   * add helles-köpfchen.de
+   * add simple-screemrecoder to whiteboard-menu
+Checksums-Sha1: 
+ 4fd71859a74c14e371f9477f758c347be7bfd368 634 amxa-webmenu-extra_1.0-1ubuntu87.dsc
+ e4e5d2f5181438c38b0d6d1db2e0e4a7c82bb402 28822 amxa-webmenu-extra_1.0-1ubuntu87.tar.gz
+ 73aac4875f25c02dc2e241b3be80cf3eaa1a7b91 17216 amxa-webmenu-extra_1.0-1ubuntu87_all.deb
+Checksums-Sha256: 
+ 0fdfcf2460efd987d6c1cd7bdc2e5d0d6ce6aea2166a03d1c7195921050aeaba 634 amxa-webmenu-extra_1.0-1ubuntu87.dsc
+ 59f290b8aed87dc26c4427a7218204717002c8d93c568ed2dc821d0dd2c9f748 28822 amxa-webmenu-extra_1.0-1ubuntu87.tar.gz
+ 72177f52b490e2c86f0f9269017296e661b88f055811082d59a56199384bcf0c 17216 amxa-webmenu-extra_1.0-1ubuntu87_all.deb
+Files: 
+ 5475c5b55f47d76611173783f67aa220 634 unknown extra amxa-webmenu-extra_1.0-1ubuntu87.dsc
+ 2400fac21deead194c98d35f7c92f448 28822 unknown extra amxa-webmenu-extra_1.0-1ubuntu87.tar.gz
+ 971fc88ce3298f3d79222bb333245c78 17216 unknown extra amxa-webmenu-extra_1.0-1ubuntu87_all.deb

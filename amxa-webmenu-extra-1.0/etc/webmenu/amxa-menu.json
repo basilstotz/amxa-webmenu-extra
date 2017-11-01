@@ -175,8 +175,16 @@
         },
         {
           "type": "desktop",
+          "source": "impressive"
+        },
+        {
+          "type": "desktop",
           "source": "obs",
           "osIconPath": "/usr/share/icons/hicolor/256x256/apps/obs.png"	    
+        },
+        {
+          "type": "desktop",
+          "source": "simplescreenrecorder"
         },
         {
           "type": "desktop",
@@ -185,10 +193,6 @@
         {
           "type": "desktop",
           "source": "gnome-screenshot"
-        },
-        {
-          "type": "desktop",
-          "source": "impressive"
         }
       ]
     }, 
