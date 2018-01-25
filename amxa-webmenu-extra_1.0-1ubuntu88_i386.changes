@@ -1,9 +1,9 @@
 Format: 1.8
-Date: Wed, 01 Nov 2017 14:54:45 +0100
+Date: Thu, 25 Jan 2018 11:16:48 +0100
 Source: amxa-webmenu-extra
 Binary: amxa-webmenu-extra
 Architecture: source all
-Version: 1.0-1ubuntu87
+Version: 1.0-1ubuntu88
 Distribution: UNRELEASED
 Urgency: medium
 Maintainer: Basil Stotz <stotz@amxa.ch>
@@ -11,7 +11,7 @@ Changed-By: Stotz Basil <stotz.basil@basil-lap.basel.opinsys.fi>
 Description: 
  amxa-webmenu-extra - adds amxa menus
 Changes: 
- amxa-webmenu-extra (1.0-1ubuntu87) UNRELEASED; urgency=medium
+ amxa-webmenu-extra (1.0-1ubuntu88) UNRELEASED; urgency=medium
  .
    [ root ]
    * fixed lp21.json millefeuiles3.3
@@ -38,15 +38,16 @@ Changes:
    * add dybuster
    * add helles-köpfchen.de
    * add simple-screemrecoder to whiteboard-menu
+   * added M_PROP as default
 Checksums-Sha1: 
- 4fd71859a74c14e371f9477f758c347be7bfd368 634 amxa-webmenu-extra_1.0-1ubuntu87.dsc
- e4e5d2f5181438c38b0d6d1db2e0e4a7c82bb402 28822 amxa-webmenu-extra_1.0-1ubuntu87.tar.gz
- 73aac4875f25c02dc2e241b3be80cf3eaa1a7b91 17216 amxa-webmenu-extra_1.0-1ubuntu87_all.deb
+ 07e55179d695290724c3216fe1dcb64edb6d6b27 634 amxa-webmenu-extra_1.0-1ubuntu88.dsc
+ 3376e2f784aaf5a2b22d073340451fe1d8b90bb3 28824 amxa-webmenu-extra_1.0-1ubuntu88.tar.gz
+ e834132d7917b04ea100b013cd9a7da9da9c7e76 17238 amxa-webmenu-extra_1.0-1ubuntu88_all.deb
 Checksums-Sha256: 
- 0fdfcf2460efd987d6c1cd7bdc2e5d0d6ce6aea2166a03d1c7195921050aeaba 634 amxa-webmenu-extra_1.0-1ubuntu87.dsc
- 59f290b8aed87dc26c4427a7218204717002c8d93c568ed2dc821d0dd2c9f748 28822 amxa-webmenu-extra_1.0-1ubuntu87.tar.gz
- 72177f52b490e2c86f0f9269017296e661b88f055811082d59a56199384bcf0c 17216 amxa-webmenu-extra_1.0-1ubuntu87_all.deb
+ 748faa384fbe6c0e4ab2620e0191b0a90a1fb9d7f45ea6deadffb276aa14165e 634 amxa-webmenu-extra_1.0-1ubuntu88.dsc
+ 1741ff5d9367a2e76005a94502f8f405fc3476587591a0e08f8450837f87f33e 28824 amxa-webmenu-extra_1.0-1ubuntu88.tar.gz
+ 154deffadc29d5924e6bf2d758d77be27e4c4791c55b569f3b4f48751a936ea9 17238 amxa-webmenu-extra_1.0-1ubuntu88_all.deb
 Files: 
- 5475c5b55f47d76611173783f67aa220 634 unknown extra amxa-webmenu-extra_1.0-1ubuntu87.dsc
- 2400fac21deead194c98d35f7c92f448 28822 unknown extra amxa-webmenu-extra_1.0-1ubuntu87.tar.gz
- 971fc88ce3298f3d79222bb333245c78 17216 unknown extra amxa-webmenu-extra_1.0-1ubuntu87_all.deb
+ 6d2f47d1d9480a085d135bb4a49ffdb4 634 unknown extra amxa-webmenu-extra_1.0-1ubuntu88.dsc
+ d901300c9eab6a67980b3a86517fccdc 28824 unknown extra amxa-webmenu-extra_1.0-1ubuntu88.tar.gz
+ 6b59039aa38387e4a5c29ce79c779013 17238 unknown extra amxa-webmenu-extra_1.0-1ubuntu88_all.deb
