@@ -62,7 +62,7 @@ fi
 
 #will probably change soon
 
-if test -e /etc/webmenu/env.sh; then
+if test -e /etc/webmenu/menuenv.sh; then
    . /etc/webmenu/menuenv.sh
 else
   case $ORG in
@@ -71,7 +71,7 @@ else
       FIRST=""
       ;;
     basel)
-      LIST="M_PROP M_WEBMENU_EDITOR M_GAMES M_LESEWERKSTATT"
+      LIST="M_PROP M_GAMES M_LESEWERKSTATT"
       FIRST=""
       ;;
     ksnuwi)
@@ -82,12 +82,8 @@ else
       LIST="M_PROP M_GAMES"
       FIRST=""
       ;;
-    larippe)
-      LIST="M_GAMES"
-      FIRST=""
-      ;;
     *)
-      LIST="M_GAMES"
+      LIST="M_GAMES M_PROP M_LESEWERKSTATT"
       FIRST=""
       ;;
   esac
