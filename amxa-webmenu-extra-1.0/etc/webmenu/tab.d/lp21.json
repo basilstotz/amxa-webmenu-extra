@@ -54,6 +54,21 @@
         },
         {
           "type": "desktop",
+          "source": "diesprachstarken3",
+          "condition": "env.M_PROP"
+        },
+        {
+          "type": "desktop",
+          "source": "diesprachstarken4",
+          "condition": "env.M_PROP"
+        },
+        {
+          "type": "desktop",
+          "source": "diesprachstarken5",
+          "condition": "env.M_PROP"
+        },
+        {
+          "type": "desktop",
           "source": "lesewerkstatt",
           "condition": "env.M_LESEWERKSTATT"
         },
@@ -443,6 +458,10 @@
         },
         {
           "type": "desktop",
+          "source": "minetest"
+        },
+        {
+          "type": "desktop",
           "source": "youtube"
         }
       ]
@@ -496,6 +515,10 @@
         {
           "type": "desktop",
           "source": "thymiovpl"
+        },
+        {
+          "type": "desktop",
+          "source": "primalogo"
         },
         {
           "type": "desktop",
