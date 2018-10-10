@@ -98,6 +98,8 @@ mathe6trainer:
  osIcon: /usr/share/pixmaps/mathe6trainer.png 
 mathe-im-netz:
   osIcon: /usr/share/pixmaps/mathe-im-netz.png
+mathwelt:
+  osIcon: /usr/share/pixmaps/mathwelt2-1.png
 map-geo-admin:
   osIcon: /usr/share/pixmaps/map-geo-admin.png
 minibooks:

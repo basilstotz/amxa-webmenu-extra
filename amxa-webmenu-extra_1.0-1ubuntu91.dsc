@@ -2,7 +2,7 @@ Format: 1.0
 Source: amxa-webmenu-extra
 Binary: amxa-webmenu-extra
 Architecture: all
-Version: 1.0-1ubuntu88
+Version: 1.0-1ubuntu91
 Maintainer: Basil Stotz <stotz@amxa.ch>
 Homepage: <insert the upstream URL, if relevant>
 Standards-Version: 3.9.2
@@ -10,8 +10,8 @@ Build-Depends: debhelper (>= 8.0.0)
 Package-List: 
  amxa-webmenu-extra deb unknown extra
 Checksums-Sha1: 
- 3376e2f784aaf5a2b22d073340451fe1d8b90bb3 28824 amxa-webmenu-extra_1.0-1ubuntu88.tar.gz
+ 68474a52710219b3a2952a143349f2b50da23a58 29088 amxa-webmenu-extra_1.0-1ubuntu91.tar.gz
 Checksums-Sha256: 
- 1741ff5d9367a2e76005a94502f8f405fc3476587591a0e08f8450837f87f33e 28824 amxa-webmenu-extra_1.0-1ubuntu88.tar.gz
+ a31655dc5b8d45ca68ff8a262e57ea613908056219af4709cff7ff3ac2ee6797 29088 amxa-webmenu-extra_1.0-1ubuntu91.tar.gz
 Files: 
- d901300c9eab6a67980b3a86517fccdc 28824 amxa-webmenu-extra_1.0-1ubuntu88.tar.gz
+ bd0961f227c30047fa74f960719cb24d 29088 amxa-webmenu-extra_1.0-1ubuntu91.tar.gz

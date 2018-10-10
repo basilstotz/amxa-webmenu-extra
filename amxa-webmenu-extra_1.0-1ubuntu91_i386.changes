@@ -1,0 +1,56 @@
+Format: 1.8
+Date: Wed, 10 Oct 2018 17:47:38 +0200
+Source: amxa-webmenu-extra
+Binary: amxa-webmenu-extra
+Architecture: source all
+Version: 1.0-1ubuntu91
+Distribution: UNRELEASED
+Urgency: medium
+Maintainer: Basil Stotz <stotz@amxa.ch>
+Changed-By: Stotz Basil <stotz.basil@basil-lap.basel.opinsys.fi>
+Description: 
+ amxa-webmenu-extra - adds amxa menus
+Changes: 
+ amxa-webmenu-extra (1.0-1ubuntu91) UNRELEASED; urgency=medium
+ .
+   [ root ]
+   * fixed lp21.json millefeuiles3.3
+ .
+   [ Stotz Basil ]
+   * added millefeuilles online;added symlinks for libreoffice
+   * added openboard
+   * fixed webmenu
+   * removed kinderweltmusik
+   * fixed icon Französisch
+   * again
+   * again
+   * added vmarkerutility
+   * added whiteboardmenu and classroomscreen
+   * fixed classroomsrcreen
+   * again
+   * again
+   * fixed syntax error
+   * again
+   * added activesoftware-nc, libreoffice-presenter and impessive to whiteboard-menu
+   * added obs-studio to menu
+   * new build
+   * move screen-shot/cast to whiteboard-menu
+   * add dybuster
+   * add helles-köpfchen.de
+   * add simple-screemrecoder to whiteboard-menu
+   * added M_PROP as default
+   * added primalogo and sprechstaerken
+   * added mathwelt(2.ch)
+   * fixed mathwelt icon
+Checksums-Sha1: 
+ 175ee3f5eaf3562cba80fd9a8703829f13f2fcf8 634 amxa-webmenu-extra_1.0-1ubuntu91.dsc
+ 68474a52710219b3a2952a143349f2b50da23a58 29088 amxa-webmenu-extra_1.0-1ubuntu91.tar.gz
+ 324f2214f6add91a5d4c18585c72532cddf910aa 17346 amxa-webmenu-extra_1.0-1ubuntu91_all.deb
+Checksums-Sha256: 
+ 5918fa75550659eca7b73252f5d8e87b9c6727eb645f82f0b0877ba2e1a7addb 634 amxa-webmenu-extra_1.0-1ubuntu91.dsc
+ a31655dc5b8d45ca68ff8a262e57ea613908056219af4709cff7ff3ac2ee6797 29088 amxa-webmenu-extra_1.0-1ubuntu91.tar.gz
+ 2403bbf5b0cbcbb4be26b718e21bce8e58621a0a4b056ee6db66e04729f8b50d 17346 amxa-webmenu-extra_1.0-1ubuntu91_all.deb
+Files: 
+ 7ac4d9b1828d6c4fd23d32f14f61a010 634 unknown extra amxa-webmenu-extra_1.0-1ubuntu91.dsc
+ bd0961f227c30047fa74f960719cb24d 29088 unknown extra amxa-webmenu-extra_1.0-1ubuntu91.tar.gz
+ 422d18b72a312ba0905a16c9f74a0462 17346 unknown extra amxa-webmenu-extra_1.0-1ubuntu91_all.deb

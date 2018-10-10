@@ -1,4 +1,4 @@
-amxa-webmenu-extra (1.0-1ubuntu88) UNRELEASED; urgency=medium
+amxa-webmenu-extra (1.0-1ubuntu91) UNRELEASED; urgency=medium
 
   [ root ]
   * fixed lp21.json millefeuiles3.3
@@ -26,8 +26,11 @@ amxa-webmenu-extra (1.0-1ubuntu88) UNRELEASED; urgency=medium
   * add helles-köpfchen.de
   * add simple-screemrecoder to whiteboard-menu
   * added M_PROP as default
+  * added primalogo and sprechstaerken
+  * added mathwelt(2.ch)
+  * fixed mathwelt icon
 
- -- Stotz Basil <stotz.basil@basil-lap.basel.opinsys.fi>  Thu, 25 Jan 2018 11:16:48 +0100
+ -- Stotz Basil <stotz.basil@basil-lap.basel.opinsys.fi>  Wed, 10 Oct 2018 17:47:38 +0200
 
 amxa-webmenu-extra (1.0-1ubuntu66) precise; urgency=low
 

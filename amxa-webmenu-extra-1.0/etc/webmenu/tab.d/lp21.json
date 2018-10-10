@@ -54,17 +54,8 @@
         },
         {
           "type": "desktop",
-          "source": "diesprachstarken3",
-          "condition": "env.M_PROP"
-        },
-        {
-          "type": "desktop",
-          "source": "diesprachstarken4",
-          "condition": "env.M_PROP"
-        },
-        {
-          "type": "desktop",
-          "source": "diesprachstarken5",
+          "source": "sprachstarken",
+          "osIcon": "/usr/share/pixmaps/sprachstarken.png",
           "condition": "env.M_PROP"
         },
         {
@@ -241,6 +232,10 @@
         {
           "type": "desktop",
           "source": "mathe-im-netz"
+        },
+        {
+          "type": "desktop",
+          "source": "mathwelt"
         },
         {
           "type": "desktop",
@@ -518,6 +513,7 @@
         },
         {
           "type": "desktop",
+          "osIcon": "/usr/share/pixmaps/primalogo.png",
           "source": "primalogo"
         },
         {
